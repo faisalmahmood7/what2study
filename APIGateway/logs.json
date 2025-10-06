@@ -1,0 +1,801 @@
+[
+    {
+        "sessionID": "6a5cc39c-faf9-421c-ab94-652c80faeee4",
+        "chatbotID": "2AHe9PYrzw",
+        "user": "testing@teams.de",
+        "messages": [
+            {
+                "user": "Wann beginnt das Studium?",
+                "bot": "Das Studium beginnt mit der Erstsemestereinführung, die vom 30.09. bis zum 03.10.2019 stattfindet. Die Veranstaltung startet täglich um 10:00 Uhr im Audimax. Weitere Informationen finden Sie hier: [LINK] http://www.uni-siegen.de/fsrgglabama/aktuelles/611377.html",
+                "timestamp": "21/5/2024 @ 13:50:25"
+            },
+            {
+                "user": "An wen wende ich mich, wenn ich mir mit meinem Studium unsicher bin<ß",
+                "bot": "Wenn du dir unsicher in Bezug auf dein Studium bist, kannst du dich an deinen Fachschaftsrat wenden. Wenn dir dort niemand helfen kann, komm einfach in unser Büro vorbei und wir werden gemeinsam eine Lösung finden.",
+                "timestamp": "21/5/2024 @ 13:51:50"
+            },
+            {
+                "user": "Wo ist euer büro?",
+                "bot": "Das Prüfungsamt befindet sich am Campus Unteres Schl0ß im Gebäude Ludwig-Wittgenstein-Haus in der Kohlbettstraße 15 in 57072 Siegen. Sie finden uns dort im Untergeschoss des Bauteils F. Die Eingänge sind über Raum US-F 0150 und US-F 0112.",
+                "timestamp": "21/5/2024 @ 13:52:22"
+            },
+            {
+                "user": "Ich war noch nie in Siegen. Gibt es einen Lageplan?",
+                "bot": "Ja, es gibt verschiedene Lagepläne der Universität Siegen und der umliegenden Gebäude. Sie können diese auf den folgenden Seiten einsehen:\n\n1. [Adolf-Reichwein-Straße](http://www.uni-siegen.de/start/kontakt/anfahrt_und_lageplaene/reichwein.html)\n2. [Herrengarten](http://www.uni-siegen.de/start/kontakt/anfahrt_und_lageplaene/herrengarten.html)\n3. [Hölderlinstraße](http://www.uni-siegen.de/start/kontakt/anfahrt_und_lageplaene/hoelderlin.html)\n4. [Paul-Bonartz-Straße](http://www.uni-siegen.de/start/kontakt/anfahrt_und_lageplaene/paul_bonatz.html)\n5. [Campus Siegen Mitte](http://www.uni-siegen.de/start/kontakt/anfahrt_und_lageplaene/campus_siegen_mitte.html)\n6. [Seminargebäude](http://www.uni-siegen.de/start/kontakt/anfahrt_und_lageplaene/seminargebaeude.html)\n\nFür die Wegbeschreibung zur Bismarckhalle besuchen Sie bitte die Webseite der Bismarckhalle.",
+                "timestamp": "21/5/2024 @ 13:53:9"
+            },
+            {
+                "user": "Wie komme ich vom Hbf zu den Campuse?",
+                "bot": "Sie können die Universitätsstandorte von Siegen Hbf mit verschiedenen Buslinien erreichen. Die Buslinien C 106 und C 111 bringen Sie direkt zu den Universitätsstandorten auf dem Haardter Berg: Adolf-Reichwein-Straße (AR), Hölderlinstraße (H) und Paul-Bonatz-Straße (PB). Den Emmy-Noether-Campus (ENC) erreichen Sie mit der Linie C114 (Richtung Fischbacher Berg). Während der Vorlesungszeiten gibt es die Direktverbindung UX 4 zum Emmy-Noether-Campus (ENC) und die UX 6 zum Standort Unteres Schloss (US) vom Haardter Berg. Vom zentralen Busbahnhof (ZOB) am Hauptbahnhof kann der Standort Unteres Schloss (US) mit allen Buslinien erreicht werden, die an der Haltestelle „Kölner Tor“ verkehren. Weitere Informationen finden Sie unter: www.uni-siegen.de/start/kontakt/anfahrt_und_lageplaene.",
+                "timestamp": "21/5/2024 @ 13:54:58"
+            },
+            {
+                "user": "Ich weiss nicht, wAs ich studieren möchte. Wer hilft mir?",
+                "bot": "Keine Sorge, das ist eine häufige Frage bei Studieninteressierten. Die Universität Siegen bietet Beratung für Studienzweifler*innen an. Sie können auch die Website \"Next Career\" besuchen, um Unterstützung zu erhalten. 🎓🤔 [LINK] https://nextcareer.de/ [LINK] http://www.uni-siegen.de/zsb/psychologische/angebotzweifel.html",
+                "timestamp": "21/5/2024 @ 14:1:36"
+            },
+            {
+                "user": "Danke. Welche Studiengänge haben einen hohen NC?",
+                "bot": "Es ist schwierig, eine genaue Antwort zu geben, da der NC für jeden Studiengang variiert und von Semester zu Semester ändern kann. Allgemein sind Medizin, Psychologie und BWL Studiengänge, die oft einen hohen NC haben. Für spezifische Informationen zu Ihrem gewünschten Studiengang, schauen Sie bitte auf der Webseite der Universität nach oder kontaktieren Sie die Studienberatung. 🎓📚 Hier ist der Link zum Studienangebot der Uni Siegen: [Studienangebot Uni Siegen](https://www.uni-siegen.de/zsb/studienangebot/).",
+                "timestamp": "21/5/2024 @ 14:2:24"
+            },
+            {
+                "user": "Kann ich an der Uni Siegen Medizin studieren?",
+                "bot": "Ich habe keine Informationen darüber, dass ein Medizinstudium an der Universität Siegen angeboten wird. Bitte kontaktieren Sie die Studienberatung für genaue Informationen. 🎓👩‍⚕️",
+                "timestamp": "21/5/2024 @ 14:3:41"
+            },
+            {
+                "user": "Ich möchte Informatik studieren. Kannst du mir das Studium empfehlen?",
+                "bot": "Als neutrale KI kann ich keine persönlichen Empfehlungen abgeben, aber ich kann dir Informationen geben. Das Informatikstudium an der Universität Siegen ist forschungsorientiert und zielt auf die Entwicklung von Fähigkeiten zur Lösung von Problemen in der Informatik ab. Es bietet auch die Möglichkeit, Schlüsselqualifikationen wie Präsentations- und Moderationskompetenzen zu erwerben. Es gibt verschiedene Studienschwerpunkte zur Auswahl, wie z.B. Embedded Systems und Medizinische Informatik. 🎓💻\n\nWeitere Informationen findest du hier: [LINK](http://www.uni-siegen.de/zsb/studienangebot/master/informatik.html)",
+                "timestamp": "21/5/2024 @ 14:4:23"
+            },
+            {
+                "user": "kannst du auch deutsch?",
+                "bot": "Ja, ich kann auch Deutsch sprechen! 😊 Wie kann ich dir helfen, Studi? 🎓📚",
+                "timestamp": "21/5/2024 @ 14:27:2"
+            },
+            {
+                "user": "Wie kontaktiere ich die Fachschaft?",
+                "bot": "Du kannst die Fachschaft Elektrotechnik-Informatik der Universität Siegen unter der folgenden Adresse erreichen: Hölderlinstr. 3, 57068 Siegen, Raum: H-E 116. Du kannst sie auch anrufen unter +49 271 7404452 oder eine E-Mail senden an alle@fsr-eti.de 📧📞. Zögere nicht, sie zu kontaktieren, sie sind da, um dir zu helfen! 😊 Mehr Informationen findest du hier [LINK] https://fsr-eti.de/kontakt/",
+                "timestamp": "21/5/2024 @ 14:29:9"
+            },
+            {
+                "user": "ich würde gerne die Fachschaft der architektur kontaktieren",
+                "bot": "Hallo! 👋 Du kannst die Fachschaft Architektur der Uni Siegen per E-Mail erreichen. Hier ist ihre E-Mail-Adresse: fachschaft@architektur.uni-siegen.de 📧. Vergiss nicht, deinen Namen und dein Anliegen klar zu formulieren, um eine schnelle und effektive Antwort zu erhalten! 😊 Viel Erfolg!",
+                "timestamp": "21/5/2024 @ 14:30:6"
+            },
+            {
+                "user": "Wie kann ich ein Chip-Schlüssel beantragen?",
+                "bot": "Hallo! 👋 Für die Beantragung eines Chip-Schlüssels gibt es spezielle Formulare. Für Mitarbeiter*innen gibt es den \"Chipschlüsselantrag für Mitarbeiter/-innen\" und für Studierende gibt es den \"Chipschlüsselantrag für Studierende\" (Version 1.4 vom 02.05.2017). Diese Formulare musst du ausfüllen und einreichen. 😊\n\nBitte beachte auch die \"Schlüsselrichtlinie\", die weitere Informationen zu diesem Thema enthält. \n\nIch hoffe, das hilft dir weiter! Wenn du weitere Fragen hast, lass es mich wissen! 📚👩‍🎓👨‍🎓",
+                "timestamp": "21/5/2024 @ 14:31:14"
+            },
+            {
+                "user": "Hast du ein Link für das Formular?",
+                "bot": "Natürlich, aber um welches Formular geht es genau? Ist es der Antrag auf eine Sonderprüfung, die Anmeldung zur Abschlussarbeit oder etwas anderes? Bitte spezifizieren Sie, damit ich Ihnen besser helfen kann! 👍🏼😊",
+                "timestamp": "21/5/2024 @ 14:32:30"
+            },
+            {
+                "user": "wie kontaktiere ich die Fachschaft der Architektur?",
+                "bot": "Du kannst die Fachschaft Architektur an der Uni Siegen per E-Mail unter fachschaft@architektur.uni-siegen.de erreichen. 📧😊",
+                "timestamp": "21/5/2024 @ 14:39:18"
+            },
+            {
+                "user": "Wie/Wo beantrage ich ein Chip-Schlüssel",
+                "bot": "Du kannst den Chipschlüssel mit dem \"Chipschlüsselantrag\" beantragen. Für Mitarbeiter*innen und Studierende gibt es unterschiedliche Formulare. Die aktuelle Version für Studierende ist 1.4 vom 02.05.2017. Bitte wende dich an die zuständige Stelle an deiner Uni, um den genauen Prozess zu erfahren. 🗝️🎓",
+                "timestamp": "21/5/2024 @ 14:40:25"
+            },
+            {
+                "user": "Öffnungszeiten der mensa",
+                "bot": "Entschuldigung, ich habe keine Informationen über die Öffnungszeiten der Mensa in meinem Wissen. Bitte kontaktieren Sie den Studierenden-Service für diese Information. 🕒🍽️",
+                "timestamp": "21/5/2024 @ 14:41:14"
+            },
+            {
+                "user": "was gibt es heute am unteren Schloss in der Mensa zu essen?",
+                "bot": "Es tut mir leid, ich habe keine aktuellen Informationen über das Menü in der Mensa am Unteren Schloss. Bitte kontaktiere den Student*innenservice für aktuelle Informationen. 🍽️🙂",
+                "timestamp": "21/5/2024 @ 14:41:46"
+            },
+            {
+                "user": "when does the semester break of summer semester start?",
+                "bot": "The semester break for the summer semester typically starts after the second exam period. In the context provided, the second exam period ends on September 30, 2024. So, the semester break should start from October 1, 2024. However, please check the official university calendar for exact dates.",
+                "timestamp": "21/5/2024 @ 15:6:17"
+            },
+            {
+                "user": "can you send me the calendar?",
+                "bot": "\n\nI apologize, but as an AI, I am unable to send calendars. However, you can add the event to your own calendar by visiting the provided link: [Google Calendar Event](https://www.google.com/calendar/event?action=TEMPLATE&dates=20240517T150000/20240517T180000&text=Flohmarkt%21&details=Die+Mensapreise+steigen+und+der+Inhalt+unserer+Geldb%C3%B6rsen+leert+sich%E2%80%A6+vermaledeit.+Auch+wenn+wir+unser+Bestes+geben+dem+entgegenzuwirken+wollen+wir+euch+auch+die+M%C3%B6glichkeit+geben+euch+was+dazu+zu+verdienen+und+alten+Kram+loszuwerden%2C+und+zwar+auf+unserem+Mensa-Flohmarkt+am+US.Gemeinsam+mit+dem+Studierendenwerk+der+Uni+veranstalten+wir+am+%3Cstrong%3E17.+Mai+2024+von+15%3A00+-18%3A00+Uhr%3C%2Fstrong%3E+einen+Flohmarkt+%3Cstrong%3Evon+Studis+f%C3%BCr+alle%3C%2Fstrong%3E+in+der+Mensa+am+Unteren+Schloss.+Hier+k%C3%B6nnt+ihr+euch+ganz",
+                "timestamp": "21/5/2024 @ 15:7:41"
+            },
+            {
+                "user": "when does the officail end date of seminars and when does the 1st exam period start? ",
+                "bot": "The official end date for seminars is not provided in the given context. However, the 1st exam period for the summer semester 2024 begins on 29.07.2024.",
+                "timestamp": "21/5/2024 @ 15:9:46"
+            },
+            {
+                "user": "can you also help me with my thesis and exmatriculation process?",
+                "bot": "I'm sorry, but I do not have specific information about the thesis and exmatriculation process. Please contact your university's examination office or student advisory service for detailed assistance.",
+                "timestamp": "21/5/2024 @ 15:11:9"
+            },
+            {
+                "user": "what kinds of scholarship does university have for international students?",
+                "bot": "I do not have it in my knowledge, please contact the student advisory service.",
+                "timestamp": "21/5/2024 @ 15:12:44"
+            },
+            {
+                "user": "how can I apply for HCI course for the upcoming semester?",
+                "bot": "The application for the Human Computer Interaction (HCI) course at the University of Siegen is not subject to admission restrictions, but an application is required. The course is taught in German and English. For more details and the application process, please visit the university's website. [LINK] https://xims.uni-siegen.de/goxims/content/www3.uni-siegen.de/zsb/studienangebot/master/hci.html?edit=1",
+                "timestamp": "21/5/2024 @ 15:15:38"
+            },
+            {
+                "user": "when is the end date of the seminars of Fac3 ?",
+                "bot": "I do not have it in my knowledge, please contact the student advisory service.",
+                "timestamp": "21/5/2024 @ 15:20:57"
+            },
+            {
+                "user": "do you know the exam period dates ?",
+                "bot": "I'm sorry, but the specific dates for the exam periods are not provided in the provided context. Please refer to the links for the Klausurübersicht Q-Exam and Klausurübersicht ZöBiS for more detailed information.",
+                "timestamp": "21/5/2024 @ 15:21:30"
+            },
+            {
+                "user": "what can you tell me about the HCI course at uni Siegen?",
+                "bot": "The Human Computer Interaction (HCI) course at the University of Siegen is an international Master's program that takes four semesters to complete. It is a consecutive, full-time study program that requires a Bachelor's degree for admission. The course focuses on the design, implementation, appropriation, and evaluation of usable and efficiently applicable software systems. Key content includes interaction techniques, interface design, user-oriented design processes and methods, usability standards, and qualitative analysis methods. The course is taught in both German and English. The University of Siegen's HCI Master's program is the oldest of its kind within the German university landscape. More information can be found on the [university's website](https://www.uni-siegen.de/incoming/degree/application/study-program/mafristen.html).",
+                "timestamp": "21/5/2024 @ 15:22:33"
+            },
+            {
+                "user": "what kind of opportunities I will have as an HCI student at university?",
+                "bot": "As an HCI student at the University of Siegen, you will have the opportunity to develop fundamental skills in interaction techniques, interface design, user-oriented design processes and methods, usability standards, and qualitative analysis methods. The curriculum is complemented by elective modules from areas such as business administration, computer science, media studies, media law, cultural studies, and sociology. You can also complete an internship in a company or research institute. The University of Siegen offers a close practical link between research and teaching due to its numerous research activities in the field of Human Computer Interaction. The completion of a Master's thesis rounds off the curriculum. For further information, please visit the [website](https://xims.uni-siegen.de/goxims/content/www3.uni-siegen.de/zsb/studienangebot/master/hci.html?edit=1).",
+                "timestamp": "21/5/2024 @ 15:25:1"
+            },
+            {
+                "user": "what do you think fac 3 means",
+                "bot": "\"Fac 3\" refers to Fakultät III, which is German for \"Faculty III\". It's a part of the University structure, often referring to a specific academic area or department. In this case, it's related to the University of Siegen. Please refer to the university's official website for more specific information.",
+                "timestamp": "21/5/2024 @ 15:31:10"
+            },
+            {
+                "user": "what is fac3",
+                "bot": "Fakultät III refers to the third faculty at the University of Siegen. This faculty offers various study programs. For more information, please visit their official website: [LINK] https://pafak3.wiwi.uni-siegen.de/info/studiengaenge/",
+                "timestamp": "21/5/2024 @ 15:31:31"
+            },
+            {
+                "user": "Wie finde ich ein Thema für meine Bachelorarbeit?",
+                "bot": "Gute Frage! 🤔 Die Wahl des Themas ist ein wichtiger Schritt. Du solltest ein Thema wählen, das dich wirklich interessiert und begeistert. 💡 Du kannst dich von deinen bisherigen Kursen, von aktuellen Forschungstrends oder von praktischen Problemen inspirieren lassen. Sprich auch mit deinem Betreuer*in, sie können dir wertvolle Einblicke und Anregungen geben. 📘👩‍🏫 Denk daran, dass das Thema machbar sein muss in Bezug auf den Umfang und die zur Verfügung stehende Zeit. Viel Glück bei der Themensuche! 🍀😊",
+                "timestamp": "21/5/2024 @ 15:37:5"
+            },
+            {
+                "user": "Wie wähle ich eine(n) Betreuer*in für meine Bachelorarbeit aus?",
+                "bot": "Gute Frage! 👍 Die Wahl des Betreuers oder der Betreuerin für die Bachelorarbeit ist sehr wichtig. Du solltest jemanden auswählen, der oder die Expert*in in deinem gewünschten Themenbereich ist. Schau dir die Forschungsinteressen und Veröffentlichungen der Dozent*innen an deiner Uni an. Vielleicht gibt es auch eine*n Dozent*in, mit dem oder der du bereits gut zusammengearbeitet hast? 🤔 Sprich die Person einfach mal an und frag, ob sie Interesse an der Betreuung deiner Arbeit hätte. Viel Erfolg! 🍀",
+                "timestamp": "21/5/2024 @ 15:38:39"
+            },
+            {
+                "user": "Ich fühle mich von einem Dozenten ungerecht behandelt. Wie sollte ich vorgehen?",
+                "bot": "Zuerst, tut es mir leid zu hören, dass du dich ungerecht behandelt fühlst 😔. Es ist wichtig, dass du dich wohl fühlst und fair behandelt wirst. Du solltest zuerst versuchen, das Problem mit dem*der Dozent*in zu klären. Wenn das nicht hilft, kannst du dich an deinen Fachschaftsrat wenden. Sollte auch das nicht helfen, komm bei uns im Büro vorbei und wir versuchen gemeinsam eine Lösung zu finden. Bleib stark! 💪 Hier ist die Liste aller Fachschaftsräte: [Link fehlt im Kontext].",
+                "timestamp": "21/5/2024 @ 15:40:30"
+            },
+            {
+                "user": "Wie finde ich ein Thema für meine Bachelorarbeit?",
+                "bot": "Eine gute Möglichkeit ist, sich an den Themen deiner bisherigen Seminare und Vorlesungen zu orientieren. Schau, was dich besonders interessiert hat und ob du das weiter vertiefen möchtest. Du kannst auch mit deinen Dozent*innen sprechen und sie um Vorschläge bitten. Vielleicht gibt es auch aktuelle Forschungsprojekte an deiner Uni, an denen du anknüpfen kannst. 📚👩‍🎓 Viel Erfolg bei der Suche!",
+                "timestamp": "21/5/2024 @ 15:52:55"
+            },
+            {
+                "user": "Ich fühle mich von einem Dozenten ungerecht behandelt. Wie sollte ich vorgehen?",
+                "bot": "Zuerst, tut mir leid zu hören, dass du dich ungerecht behandelt fühlst. 😔 Du solltest zunächst versuchen, das Problem mit deinem Fachschaftsrat zu klären. Wenn das nicht hilft, komm in unser Büro und wir werden gemeinsam eine Lösung finden. 🤝 Denk dran, du hast immer das Recht, dich zu beschweren, wenn du dich ungerecht behandelt fühlst!",
+                "timestamp": "21/5/2024 @ 15:55:7"
+            },
+            {
+                "user": "Do you speak english?",
+                "bot": "Yes, I do speak English! How can I assist you today? 😊👍",
+                "timestamp": "21/5/2024 @ 15:56:33"
+            },
+            {
+                "user": "I can't find a certain room, what should I do?",
+                "bot": "\nNo worries! 🙌 First, check the abbreviations and notes in the list of buildings and rooms on the website. If you still can't find the room, please contact the student office or the examination office. They can surely help you. 📚👀 [LINK](http://www.uni-siegen.de/start/kontakt/anfahrt_und_lageplaene/seminargebaeude.html)",
+                "timestamp": "21/5/2024 @ 15:57:8"
+            },
+            {
+                "user": "test",
+                "bot": "I do not have it in my knowledge, please contact the student advisory service.",
+                "timestamp": "22/5/2024 @ 13:16:55"
+            },
+            {
+                "user": "was kann ich in Siegen studieren?",
+                "bot": "An der Universität Siegen gibt es eine Vielzahl von Studiengängen, über die du dich hier informieren kannst 🎓📚. Egal ob du dich für Lehramt, Ingenieurwissenschaften oder etwas anderes interessierst, es gibt viele Möglichkeiten! 😊 Vergiss nicht, auch die Zulassungsbedingungen zu prüfen. Viel Glück bei deiner Entscheidung! 🍀\n\n[LINK] https://unisono.uni-siegen.de/qisserver/pages/cm/exa/coursemanagement/basicCourseData.xhtml?_flowId=searchCourseNonStaff-flow&_flowExecutionKey=e3s1",
+                "timestamp": "22/5/2024 @ 13:17:19"
+            },
+            {
+                "user": "Wann muss ich meine Bachelorarbeit anmelden?",
+                "bot": "Du solltest deine Bachelorarbeit ca. 4 bis 6 Monate vor dem geplanten Start anmelden. 📅💡 Nachdem du mit deinem Betreuer*in das Thema, den Zweitkorrektor*in und den Starttermin abgesprochen hast, musst du das Anmeldeformular ausfüllen und es 1-2 Wochen vor Beginn der Bearbeitungszeit im Prüfungsamt abgeben. 📝👍 Vergiss nicht, dass bestimmte Voraussetzungen erfüllt sein müssen, um dich anmelden zu können. Diese findest du in der Prüfungsordnung deines Studiengangs. 🎓📚 Viel Erfolg! 🍀 \n\nHier ist ein nützlicher Link für weitere Informationen: [LINK] https://pafak3.wiwi.uni-siegen.de#",
+                "timestamp": "22/5/2024 @ 13:40:51"
+            },
+            {
+                "user": "Wo finde ich Raum US A 120?",
+                "bot": "Es tut mir leid, aber ich habe keine Informationen über den Raum US A 120 in meinem Wissen. Bitte kontaktieren Sie den Studienberatungsdienst für weitere Informationen. 🙏🏼🎓",
+                "timestamp": "22/5/2024 @ 13:41:53"
+            },
+            {
+                "user": "Ok, schade",
+                "bot": "Kein Problem, wenn du weitere Fragen hast oder Hilfe brauchst, zögere nicht zu fragen! 😊👍",
+                "timestamp": "22/5/2024 @ 13:42:9"
+            },
+            {
+                "user": "Wer wird der Nachfolger von Christian Stewen?",
+                "bot": "Entschuldigung, aber ich habe keine Informationen über einen Nachfolger von Christian Stewen in meinem Wissensbestand. Bitte wende dich an den Studierendenservice für weitere Informationen. 🎓💼📚",
+                "timestamp": "22/5/2024 @ 13:43:11"
+            },
+            {
+                "user": "Kennst du Christian Stewen?",
+                "bot": "Ich habe diese Information nicht in meinem Wissen, bitte kontaktiere den Studierendenservice. 📚👩‍🎓👨‍🎓📞",
+                "timestamp": "22/5/2024 @ 13:43:28"
+            },
+            {
+                "user": "Wann muss ich meine Bachelorarbeit anmelden?",
+                "bot": "Sie sollten die Anmeldung Ihrer Bachelorarbeit ein bis zwei Wochen vor Beginn der Bearbeitungszeit im Prüfungsamt einreichen. Planen Sie eine ausreichende Vorlaufzeit (4 bis 6 Monate) für die Suche nach einem Betreuer und die Themenauswahl ein. Beachten Sie auch die studiengangabhängigen Voraussetzungen für die Anmeldung. Die genauen Voraussetzungen finden Sie in der Prüfungsordnung für Ihren Studiengang.",
+                "timestamp": "22/5/2024 @ 13:49:43"
+            },
+            {
+                "user": "Wo ist Raum US A 120?",
+                "bot": "Ich habe keine Informationen über den Raum US A 120 in meinem Wissen. Bitte kontaktieren Sie den Studienberatungsdienst.",
+                "timestamp": "22/5/2024 @ 13:50:36"
+            },
+            {
+                "user": "Wo ist Gebäude US A?",
+                "bot": "Das Gebäude US-A ist Teil des Campus Unteres Schloss. Die Adresse ist Unteres Schloss 3, 57072 Siegen. Weitere Informationen finden Sie auf der Webseite der Universität Siegen [LINK](http://www.uni-siegen.de/start/kontakt/anfahrt_und_lageplaene/seminargebaeude.html).",
+                "timestamp": "22/5/2024 @ 13:50:50"
+            },
+            {
+                "user": "wann sind die prüfungsphasen im sommersemester 24 ?",
+                "bot": "Im Sommersemester 2024 gibt es zwei Prüfungsperioden. Die erste Prüfungsperiode findet vom 29.07.2024 bis zum 23.08.2024 statt, die Anmeldung beginnt ab dem 03.06.2024. Die zweite Prüfungsperiode ist vom 16.09.2024 bis zum 30.09.2023, mit Anmeldungen ab dem 17.08.2024. Bitte beachten Sie, dass Anmeldungen zu einzelnen Prüfungen, wie Seminaren oder Prüfungen mit semesterbegleitenden Elementen, bereits früher während der Vorlesungszeit erfolgen. Alle Angaben gelten unter Vorbehalt. Weitere Informationen finden Sie auf den folgenden Seiten: [LINK] https://www.wiwi.uni-siegen.de/pruefungsamt/ [LINK] https://pafak3.wiwi.uni-siegen.de/FAQ/",
+                "timestamp": "22/5/2024 @ 14:7:26"
+            },
+            {
+                "user": "welche studiengänge bietet die uni siegen an ?",
+                "bot": "Die Universität Siegen bietet eine Vielzahl von Studiengängen an. Sie bietet grundständige Studiengänge in Bereichen von Architektur bis Wirtschaftsingenieurwesen. Nach Abschluss eines Bachelorstudiums können Studierende ihr Studium durch ein konsekutives Masterstudium vertiefen. Zudem gibt es internationale Studiengänge, die sich an deutsche und ausländische Studierende richten. Darüber hinaus haben Studierende die Möglichkeit, während des Studiums weitere Zusatzqualifikationen zu erlangen. Für eine vollständige Liste der angebotenen Studiengänge können Sie die alphabetische Auflistung aller Studienangebote der Universität Siegen einsehen [LINK] https://www.uni-siegen.de/zsb/studienangebot/az.html?lang=de.",
+                "timestamp": "22/5/2024 @ 14:8:44"
+            },
+            {
+                "user": "Wie bewerbe ich mich für ein auslandsstudium",
+                "bot": "Ich habe keine Informationen über die Bewerbung für ein Auslandsstudium in meinem Wissensspektrum. Bitte kontaktieren Sie den Studienberatungsdienst.",
+                "timestamp": "22/5/2024 @ 14:11:17"
+            },
+            {
+                "user": "wie kann ich die studien beratung kontaktieren ?",
+                "bot": "Sie können die Studienberatung per E-Mail unter sozref@asta.uni-siegen.de oder telefonisch unter der Nummer 0271 / 740 – 4601 kontaktieren.",
+                "timestamp": "22/5/2024 @ 14:11:42"
+            },
+            {
+                "user": "Wo kann ich mich über einen auslandssemester erkunden ?",
+                "bot": "Für Infos zum Auslandssemester kannst du dich an das Akademische Auslandsamt deiner Uni wenden. Oft gibt es auch spezielle Infoseiten auf der Uni-Website. Vielleicht hilft dir das ESE-Programm weiter, das spezielle Angebote für ausländische Studienanfänger*innen hat. Schau mal hier: www.uni-siegen.de/zsb/anfaenger/ese/erstsemestereinfuehrung.html. Viel Erfolg bei deinem Vorhaben! 🌍🎓",
+                "timestamp": "22/5/2024 @ 14:20:3"
+            },
+            {
+                "user": "welche Studiengänge sind beliebt an der uni ?",
+                "bot": "Die Universität Siegen bietet eine Vielzahl von Studiengängen an, die bei Student*innen beliebt sind. Einige davon sind Betriebswirtschaftslehre (B.Sc.), Informatik (B.Sc.), Soziale Arbeit (B.A.), Psychologie (B.Sc.), und viele mehr. Die Beliebtheit eines Studiengangs kann jedoch je nach Interessen und Karrierezielen variieren. Schau dir am besten die vollständige Liste der angebotenen Studiengänge an, um zu sehen, was dich am meisten interessiert. 🎓📚",
+                "timestamp": "22/5/2024 @ 14:21:19"
+            },
+            {
+                "user": "Wo finde ich die studiengänge? ",
+                "bot": "Ich habe diese Information nicht in meinem Wissen. Bitte kontaktieren Sie die Studienberatung für weitere Informationen. 🎓👩‍💻",
+                "timestamp": "22/5/2024 @ 14:22:31"
+            },
+            {
+                "user": "Habe ich mit einem Bachelor of Science im Fach Wirtschaftsingenieurwesen Zugriff auf den Master of Science in Materialwissenschaft und Werkstofftechnik an der Uni Siegen?",
+                "bot": "Hallo! 👋 An der Uni Siegen ist der Masterstudiengang Materialwissenschaft und Werkstofftechnik (MatWerk) konsekutiv, das heißt, er baut auf einem vorangegangenen Bachelorstudium auf. Wenn dein Bachelor in Wirtschaftsingenieurwesen eine ausreichende Grundlage in den benötigten Bereichen bietet, könntest du dafür zugelassen werden. 🎓\n\nDie genauen Zulassungsvoraussetzungen sollten jedoch immer direkt mit der Uni Siegen geklärt werden. Es ist auch wichtig zu beachten, dass der Unterricht auf Deutsch stattfindet. 🇩🇪\n\nHier ist der Link zur Bewerbungsseite: [LINK](https://www.mb.uni-siegen.de/department/pruefungsamt/downloads/bewerb/?lang=de)\n\nUnd hier ist der Link zur Info-Seite des Studiengangs: [LINK](http://www.uni-siegen.de/zsb/studienangebot/master/matwerk.html?m=e)\n\nViel Glück! 🍀👍",
+                "timestamp": "22/5/2024 @ 14:38:34"
+            },
+            {
+                "user": "Welche Möglichkeiten zur Nebenbeschäftigung hat man als Studierender in Siegen?",
+                "bot": "Hallo! 👋 Als Studierende*r in Siegen gibt es viele Möglichkeiten zur Nebenbeschäftigung. Du könntest z.B. in sozialversicherungspflichtige Arbeit oder Ausbildung während des Studiums vermittelt werden. 🎓💼 Die Universität Siegen und die Arbeitsagentur bieten hierfür Unterstützung an. Besonders hilfreich könnten die Beratungszeiten von 13-15 Uhr im Raum AR-D 4103 sein. Dort erhältst du Informationen zum aktuellen Arbeitsmarkt, Kontakte zu regionalen Arbeitgeber*innen und vieles mehr. 😊👍\n\nDu könntest auch auf der Jobvermittlungsseite der Uni Siegen nach Nebenjobs suchen. Hier ist der Link: [Jobvermittlung Uni Siegen](http://www.jobvermittlung.uni-siegen.de/)\n\nViel Glück bei der Suche! 🍀\n\nWeitere Informationen findest du hier: \n[Arbeitsagentur Siegen](https://www.arbeitsagentur.de/vor-ort/siegen/berufsberatung/studium)\n[Uni Siegen Studium](https://www.uni-siegen.de/start/studium/index.html?lang=de#finanzierung)",
+                "timestamp": "22/5/2024 @ 14:42:49"
+            },
+            {
+                "user": "Wie finde ich bezahlbaren Wohnraum in Siegen?",
+                "bot": "Es gibt mehrere Optionen, um bezahlbaren Wohnraum in Siegen zu finden. 🏠\n\n1. Studierendenwohnheim: Du kannst dich für ein Zimmer im Studierendenwohnheim bewerben. Aber Achtung! Die Nachfrage ist oft höher als das Angebot. Hier geht's zur Bewerbung: www.studierendenwerk-siegen.de/index.php 🏢\n\n2. Wohnungsbörse: Schau dir die aktuellen Wohnungsangebote für Studierende auf der Webseite des Studierendenwerks an: www.studentisches-wohnen-in-siegen.de/ 🛋️\n\n3. Kleinanzeigen: Du kannst auch in den Kleinanzeigen der örtlichen Tageszeitungen oder den kostenlosen Wochenzeitungen nach Wohnungsangeboten suchen. Hier sind ein paar Links: www.swa-wwa.de, www.siegener-zeitung.de, www.wp.immowelt.de/ 🗞️\n\n4. Online-Portale: Es gibt viele Online-Portale zur Immobiliensuche, die Mietangebote für Studierende und WGs haben. 💻\n\n5. Private Makler*innen: Eine weitere Möglichkeit ist, eine Wohnung über private Makler*innen zu suchen. Bedenke aber, dass hier oft eine Maklercourtage anfällt. 💰\n\n6. Wohnpartnerschaften: Du könntest auch eine Wohnpartnerschaft in Betracht ziehen. Dabei bietest du deine Hilfe im Haushalt oder Betrieb an und bekommst dafür eine niedrigere Miete. Hier geht's zum Online-Portal: www.mitwohnen.org 🤝\n\nViel Glück bei der Suche! 🍀",
+                "timestamp": "22/5/2024 @ 14:45:32"
+            },
+            {
+                "user": "Welche Hochschulsportkurse werden im kommenden Semester angeboten?",
+                "bot": "Ich habe diese Information nicht in meinem Wissen, bitte kontaktieren Sie den Hochschulsport-Service.",
+                "timestamp": "22/5/2024 @ 15:4:12"
+            },
+            {
+                "user": "Wie sieht es mit dem aktuellen Semester aus?",
+                "bot": "Die Prüfungen des aktuellen Semesters sind in der Übersicht aufgeführt, die Sie unter dem angegebenen Link finden können: [LINK](https://pafak3.wiwi.uni-siegen.de/info/wp-content/uploads/Pruefungstermine/pruefungstermine-wise-pt1.pdf). Es wird angegeben, ob eine Prüfung zur zweiten Prüfungsperiode stattfindet. Zugehörige Vorlesungen und Übungen sind ebenfalls aufgeführt, mit Angabe des Semesters, wann die Veranstaltung stattgefunden hat. Beachten Sie bitte die spezifischen Regelungen für Ihre Studiengänge.",
+                "timestamp": "22/5/2024 @ 15:4:47"
+            },
+            {
+                "user": "Welche Hochschulsportkurse gibt es aktuell?",
+                "bot": "Ich habe diese Information nicht in meinem Wissen, bitte kontaktieren Sie den studentischen Beratungsdienst.",
+                "timestamp": "22/5/2024 @ 15:5:21"
+            },
+            {
+                "user": "An welchen Standorten gibt es Studierendenwohnheime?",
+                "bot": "Die Wohnanlagen befinden sich in der Regel in unmittelbarer Uni-Nähe oder sind mit öffentlichen Verkehrsmitteln sehr gut zu erreichen. Die Wohnanlagen „Glück­auf­straße“, „Adolf-Reich­­wein-Straße“, „Huber­tusweg“ und „Am Eichen­hang“ befinden sich unmittelbar am jeweiligen Campus. Weitere Informationen zu den Standorten finden Sie hier: [LINK] https://www.studierendenwerk-siegen.de/wohnen/im-tiergarten-15/ und [LINK] https://www.studierendenwerk-siegen.de/wohnen/im-tiergarten-19/.",
+                "timestamp": "22/5/2024 @ 15:6:4"
+            },
+            {
+                "user": "Was ist ein dreihöckriges Kamel?",
+                "bot": "Ich habe diese Information nicht in meinem Wissen, bitte kontaktieren Sie den Studienberatungsdienst.",
+                "timestamp": "22/5/2024 @ 15:7:37"
+            },
+            {
+                "user": "Schwanger! ;)",
+                "bot": "Herzlichen Glückwunsch! 🎉 An der Uni Siegen gibt es ein spezielles Formular für die Meldung der Schwangerschaft. Bitte füllen Sie es aus und senden Sie es an das Studierendensekretariat. Hier ist der Link: [LINK](http://www.uni-siegen.de/start/formularcenter/studierende/meldung_der_schwangerschaft_english.pdf). Es ist wichtig, dass die Universität über Ihre Schwangerschaft informiert ist, um Ihnen die notwendige Unterstützung und Anpassungen zu bieten.",
+                "timestamp": "22/5/2024 @ 15:8:2"
+            },
+            {
+                "user": "wie erstelle ich meinen Stundenplan?",
+                "bot": "Zur Erstellung Ihres Stundenplans sollten Sie sich zunächst mit den Prüfungsordnungen (PO) und den Fachspezifischen Bestimmungen (FSB) bzw. Fachprüfungsordnungen (FPO) Ihres Studiengangs vertraut machen. Darin finden Sie die Inhalte und Anforderungen der einzelnen Module. Studienverlaufspläne geben Ihnen eine empfohlene Reihenfolge der Module vor. Nach dieser Recherche können Sie die entsprechenden Veranstaltungen in unisono belegen. Vergessen Sie nicht, die allgemeinen Belegfristen zu beachten. Weitere Hilfe finden Sie in der Erstsemestereinführung und auf der Website der Universität Siegen unter: www.uni-siegen.de/start/studium/organisation_finanzierung/pruefungsordnungen.html.",
+                "timestamp": "22/5/2024 @ 15:22:15"
+            },
+            {
+                "user": "Wo finde ich die Prüfungsordnungen?",
+                "bot": "Die Prüfungsordnungen finden Sie in der Regel auf der Webseite Ihrer Universität oder Hochschule. Dort gibt es oft einen Bereich für Studierende, in dem wichtige Dokumente und Informationen bereitgestellt werden. In Ihrem Fall sollten Sie nach der Prüfungsordnung 2012 und der Version 2019 suchen, sowie den Änderungsordnungen. Bitte beachten Sie, dass es auch spezifische Prüfungsordnungen für bestimmte Studiengänge geben kann.",
+                "timestamp": "22/5/2024 @ 15:23:28"
+            },
+            {
+                "user": "wie lauten die Zulassungsvoraussetzungen für den BA Medienwissenschaften?",
+                "bot": "Ich habe keine Informationen über die Zulassungsvoraussetzungen für den Bachelor in Medienwissenschaften in meinem Wissen. Bitte kontaktieren Sie den Studienberatungsdienst.",
+                "timestamp": "22/5/2024 @ 15:26:5"
+            },
+            {
+                "user": "wie lauten die Zulassungsvoraussetzungen für den MA Sowi?",
+                "bot": "Die Zulassungsvoraussetzungen für den Masterstudiengang Sozialwissenschaften in Europa an der Universität Siegen sind:\n\n1) Ein Bachelorabschluss in Sozialwissenschaften, Politikwissenschaft oder Soziologie oder ein Abschluss in vergleichbaren Studiengängen jeweils mit mindestens der Note „gut“ (2,5).\n\n2) Der Nachweis fachlicher Kenntnisse der Politikwissenschaft, der Soziologie oder den Sozialwissenschaften im Umfang von mindestens 45 LP im Kernfach bzw. 18 LP im Ergänzungsfach ist erforderlich. Dabei sind Kenntnisse in den Methoden der empirischen Sozialforschung und/oder der sozialwissenschaftlichen Theorien nachzuweisen.\n\nFür weitere Informationen, besuchen Sie bitte die [Webseite](https://www.uni-siegen.de/zsb/studienangebot/master/sowi_in_europa.html?m=e) der Universität Siegen.",
+                "timestamp": "22/5/2024 @ 15:27:20"
+            },
+            {
+                "user": "gibt es eine Praktikumsbörse für Sozialwissenschaften?",
+                "bot": "Ich habe keine spezifische Information über eine Praktikumsbörse für Sozialwissenschaften an der Universität Siegen in meinem Wissen. Bitte kontaktieren Sie die Studienberatung für genauere Informationen.",
+                "timestamp": "22/5/2024 @ 15:29:20"
+            },
+            {
+                "user": "Gibt es eine Praktikumsbörse für medienwissenschaften?",
+                "bot": "Ich habe keine Informationen zu einer Praktikumsbörse für Medienwissenschaften in meinem Wissen. Bitte wenden Sie sich an die Studienberatung.",
+                "timestamp": "22/5/2024 @ 15:38:55"
+            },
+            {
+                "user": "Wo kann ich einen Studiengangswechsel beantragen?",
+                "bot": "Den Studiengangswechsel kannst du im SSC (Studierendensekretariat) beantragen. Es ist ratsam, vorher mit deinem Fachschaftsrat oder mit uns zu sprechen, um einen Überblick über mögliche Anrechnungen von bereits erreichten KP zu erhalten. Die endgültige Anrechnung erfolgt jedoch durch den*die jeweilige Fachstudienberater*in.",
+                "timestamp": "22/5/2024 @ 15:39:42"
+            },
+            {
+                "user": "Bis wann muss ich mich für das Semester zurückmelden?",
+                "bot": "\n\nIch habe es nicht in meinem Wissen, bitte kontaktieren Sie die Studienberatung.",
+                "timestamp": "22/5/2024 @ 15:40:36"
+            },
+            {
+                "user": "Wo kann ich mich über ein Auslandssemester informieren?",
+                "bot": "Informationen zu Auslandsaufenthalten und den verschiedenen Möglichkeiten wie Praktika, Auslandssemestern, ERASMUS-Programmen, pädagogischen Austauschdiensten oder auch Work & Travel-Aufenthalte erhalten Sie bei International Student Affairs (ISA) der Universität Siegen. Sie können sich auch bei den jeweiligen Auslandsbeauftragten Ihrer Fakultät informieren.",
+                "timestamp": "22/5/2024 @ 15:41:41"
+            },
+            {
+                "user": "I want some suggesting programs",
+                "bot": "I do not have it in my knowledge, please contact the student advisory service.",
+                "timestamp": "22/5/2024 @ 15:56:40"
+            },
+            {
+                "user": "I want to know more about the exchange program offered by the university",
+                "bot": "The University of Siegen offers various exchange programs for students. You can find specific information about the structure, requirements, and application process of these programs on the university's international page. Please note that the application for the course and the registration for the examination are two separate steps in the university's system, unisono. [LINK] https://www.uni-siegen.de/start/international/ [LINK] https://www.uni-siegen.de/incoming/exchange/?lang=de",
+                "timestamp": "22/5/2024 @ 15:57:22"
+            },
+            {
+                "user": "I want to know more information about faculty 1 in university of siegen",
+                "bot": "I do not have it in my knowledge, please contact the student advisory service.",
+                "timestamp": "22/5/2024 @ 15:59:18"
+            },
+            {
+                "user": "I want to know more information about faculty 3 in university of siegen",
+                "bot": "Fakultät III at the University of Siegen focuses on Wirtschaftswissenschaften, Wirtschaftsinformatik und Wirtschaftsrecht (Economics, Business Informatics and Business Law). The Prüfungsamt (Examination Office) is responsible for the faculty's degree programs. You can find information on examinations, degree programs, recognition procedures for examination achievements, and information for new students and those interested in studying. For more specific information, please visit the respective pages on the university's website. \n\n[Prüfungsamt](https://www.wiwi.uni-siegen.de/pruefungsamt/)\n[Studiengänge](https://pafak3.wiwi.uni-siegen.de/info/studiengaenge/)\n[Prüfungen](http://pafak3.wiwi.uni-siegen.de/info/pruefungen/)\n[Anrechnungen](http://pafak3.wiwi.uni-siegen.de/info/anrechnungen/)\n[Studienanfänger](http://pafak3.wiwi.uni-siegen.de/info/studienanfaenger/)\n[Studieninteressierte](http://pafak3.wiwi.uni-siegen.de/info/studieninteressierte/)",
+                "timestamp": "22/5/2024 @ 16:0:15"
+            },
+            {
+                "user": "i want to study in university of Siegen. is there any english program?",
+                "bot": "Hello! 👋 That's a great decision to study at the University of Siegen! 🎓📚 Unfortunately, I don't have specific information about English programs at the University of Siegen in my current knowledge base. 😞 But don't worry! I recommend you to contact the International Office at the university directly. They can provide you with the most accurate and up-to-date information about their study programs. 🌐🎓 Here is their website: [International Office](https://www.uni-siegen.de/start/internationales/?lang=en) \n\nAlso, don't forget that we offer multilingual counseling in German and English to help you with any difficulties you might encounter during your studies, be it housing, job-seeking, or any other aspect of student life. 🏠🔍 We're here to help you! 😊\n\nAnd hey, there are some upcoming events you might be interested in! There's a flea market on May 17th from 15:00 - 18:00 🛍️ and a lecture on \"Economy and Future: The Capital in the History of the Platypus Affiliated Society\" on the same day from 18:00 - 19:30 📚🤔 Here are the links to these events:\n- [Flea market](https://www.asta.uni-siegen.de/index.php/termin_der_vs/flohmarkt-2/)\n- [Lecture](https://www.asta.uni-siegen.de/index.php/termin_der_vs/zu-wirtschaft-und-zukunft-das-kapital-in-der-geschichte-der-platypus-affiliated-society/)\n\nI hope this helps! If you have any other questions or need further information, feel free to ask! 🤗👍",
+                "timestamp": "22/5/2024 @ 16:11:25"
+            },
+            {
+                "user": "I want to know more faculty 1 in university of siegen",
+                "bot": "I'm sorry, but the provided context does not contain specific information about faculty 1 at the University of Siegen. For detailed information, I would recommend visiting the official website of the University of Siegen or contacting the student advisory service. They will be able to provide you with precise and up-to-date information about the faculty, its departments, study programs, and other related matters. 🎓💻📚\n\nKeep in mind that it's important to research thoroughly about the faculty and its programs before making any decisions. Consider factors like the faculty's reputation, the courses it offers, its research opportunities, and the career prospects of its graduates. This will help you make an informed decision about your studies. 😊👍📘\n\nRemember, studying is a big commitment and it's important to choose a program and a university that fits your interests and career goals. Good luck with your studies! 🍀🎓💼\n\nHere are the links provided in the context for your reference:\n[LINK] https://nt.uni-siegen.de/50-jahre-universitaet-siegen/\n[LINK] https://nt.uni-siegen.de/fakultaetsratswahl-2024/",
+                "timestamp": "22/5/2024 @ 16:14:14"
+            },
+            {
+                "user": "i want to know more about BWL program in uni siegen",
+                "bot": "Hey there! 👋\n\nThe Bachelor program in Betriebswirtschaftslehre (BWL) at the Universität Siegen is one of the popular choices among students. 🎓 After you've enrolled, you'll need to apply for admission to the Bachelor's examination at the Examinations Office. This application form is also available at the Examinations Office. 😊\n\nIn the Bachelor program, only the application for admission needs to be submitted. Only after the submission of this application, you can register for the individual exams. 👍\n\nRegistrations for the individual exams are generally done online via Unisono, the Campus Management System of the University of Siegen. 🖥️ A framework schedule for the exams is announced at the beginning of the semester under General Scheduling, and the dates for the individual exams are announced during the semester under Exam Dates. Please note that the registration for the second exam date depends on the exam day of the first exam. 📅\n\nYou can find further information, module manuals, and important forms that are important for your successful study path under your degree program. 📚\n\nFor more detailed information, you can visit the following link: \n[LINK] https://pafak3.wiwi.uni-siegen.de \n\nI hope this information helps! If you have any other questions, feel free to ask. 😊",
+                "timestamp": "22/5/2024 @ 16:15:37"
+            },
+            {
+                "user": "i want to find a house in siegen city",
+                "bot": "Sure, I can help you with that! 🏠👍 In Siegen, you have several options to find a place to live. \n\nYou can apply for a room in the student dormitory. But keep in mind that the number of applicants usually exceeds the number of rooms available. For more information, you can check the website of the Studierendenwerk Siegen: www.studierendenwerk-siegen.de/index.php 🏢🎓\n\nIf you prefer renting a flat, there is a housing exchange with current offers for students on the website of the Studierendenwerk: www.studentisches-wohnen-in-siegen.de/. 🏘️🔑\n\nYou can also check the classifieds of the local daily newspapers and the free weekly newspapers for housing offers. Here are some links: \n- Siegerländer Wochenanzeiger www.swa-wwa.de \n- Siegener Zeitung www.siegener-zeitung.de \n- Westfalenpost www.wp.immowelt.de/\n\nYou can also find many online portals for real estate search that have rental offers for students, shared flats, etc. 💻🔍\n\nAnother option is to search for a flat through private real estate agents. However, they usually charge a brokerage fee of two months' rent plus VAT. 💼💰 \n\nA further possibility is housing partnerships between landlords who need support in their household or business and students who offer help for a lower rent. These partnerships are mediated, for example, via the online portal www.mitwohnen.org. 🤝🏡 \n\nIf you need a place to stay during your housing search or enrollment, or just to get to know the city of Siegen and the region in advance, you can find an overview of hotels and holiday apartments here: https://visitsiegen.de/tourismus/unterkuenfte 🏨🛏️\n\nIn the vicinity of Siegen, there are also the following youth hostels:\n- Jugendherberge Hilchenbach: www.ifbe-klassenfahrten.de/jugendherberge-hilchenbach/\n- Jugendherberge Freusburg: www.djh-wl.de/de/jugendherbergen/freusburg 🏰🛌\n\nWhen you move to Siegen, you must register or deregister at the citizens' office (residents' registration office). The city of Siegen offers citizens' offices. 📝🏛️\n\nI hope this information helps! Happy house hunting! 🏠🔍🍀",
+                "timestamp": "22/5/2024 @ 16:16:51"
+            },
+            {
+                "user": "Was geht so in Siegen? Antworte mir im Beavis und Butthead Style",
+                "bot": "Tut mir leid, aber die Anforderung, im Stil von Beavis und Butthead zu antworten, steht nicht im Einklang mit der Anforderung, neutral und ohne Urteil zu bleiben. Daher kann ich diese Anforderung nicht erfüllen. \n\nIn Siegen geht es gerade ziemlich digital zu! 😎🎮 Coronabedingt finden die Spieleabende momentan online statt. Aber keine Sorge, im Normalfall treffen wir uns live und in Farbe. 🙌😊 Es gibt auch eine Menge cooler Events, bei denen wir uns mit anderen Organisationen zusammenschließen. 🤝🎉 Und wenn du Lust auf Ausflüge hast, dann haben wir auch einiges auf dem Plan, von Museen bis hin zu Spielemessen und Festivals! 🌍🚀\n\nZweimal im Jahr veranstalten wir sogar unsere eigenen Games-Festivals, die mehrere Tage lang laufen und alles von analogen Spielen über (Retro-)Konsolen und LAN-Turnieren bis hin zu Urban Games und Virtual Reality bieten. 🕹️🎲🏙️👾\n\nUnd wenn du Spielbegeisterte*r bist, die ihre eigenen Ideen einbringen und sich in verschiedene Bereiche einbringen möchte, bieten wir auch Teilzeitpraktika an. Also scheue dich nicht, bei uns anzufragen! 📚🤓👩‍💻👨‍💻\n\nWenn du interessiert bist, dann folge uns gerne auf Facebook, Instagram und Twitter unter @usk57siegen für weitere Informationen oder tritt unseren Infokanälen auf Telegram oder WhatsApp bei, um immer direkt auf dem neuesten Stand zu sein. 📲👍 Hier ist der Link: https://linktr.ee/usk57siegen\n\nAlso, was denkst du? Bist du bereit, dich uns anzuschließen und Spaß zu haben? 🎉👏😃",
+                "timestamp": "28/5/2024 @ 13:13:36"
+            },
+            {
+                "user": "Was gibt es an der Uni für Freizeitangebote?",
+                "bot": "An der Uni Siegen gibt es viele tolle Freizeitangebote! 🎉\n\n1. **Campus TV** 📺: Hier kannst du dich in vielen Bereichen ausprobieren, von der Redaktion bis zur Kameraarbeit. Keine Vorkenntnisse nötig! Mehr Infos findest du auf ihrer [Homepage](https://www.campus-tv.uni-siegen.de/).\n\n2. **Glückspils** 🍻: Ein Ort, wo du Spaß haben, dich engagieren und neue Leute treffen kannst. Alles wird von Studierenden für Studierende organisiert.\n\n3. **Der Goldene Monaco** 🎥: Der studentische Filmpreis der Uni Siegen. Du kannst deine Filme einreichen und an der großen Gala teilnehmen. Mehr Infos auf ihrer [Homepage](http://www.goldener-monaco.de/).\n\n4. **eLab** 🔧: Ein Elektroniklabor für tech-begeisterte Studierende. Mehr Infos auf ihrer [Homepage](http://elab.uni-siegen.de/).\n\n5. **Filmwerkstatt** 🎬: Hier kannst du deine filmischen Fähigkeiten verbessern und an Projekten teilnehmen. Mehr Infos auf ihrer [Homepage](http://filmwerkstatt.uni-siegen.de/).\n\nAlso, worauf wartest du? Tauche ein in das studentische Leben an der Uni Siegen! 🚀",
+                "timestamp": "28/5/2024 @ 13:36:11"
+            },
+            {
+                "user": "Was gibt es für hochschulpolitische Listen?",
+                "bot": "Es gibt verschiedene hochschulpolitische Listen an der Universität Siegen. Für das 48. Studierendenparlament sind folgende Listen vertreten:\n\n1. Campus Grün 🌳\n2. Die LISTE 📝\n3. Die Regenbogen Weltraum Panda Piraten 🌈🐼\n4. Grüne Liste 🌿\n5. Juso Hochschulgruppe 🌹\n6. Liberale Hochschulgruppe 🗽\n7. Listenlos 📚\n8. RCDS & JU 📚\n9. SDS.Die LINKE.Siegen ✊\n\nJede Liste repräsentiert unterschiedliche politische Ideologien und Ziele. Es ist wichtig, dass du dich über jede Liste informierst, um die für dich passende zu finden. Hier sind die Links zu den Wahlprotokollen und weiteren Informationen: [LINK](https://www.asta.uni-siegen.de/wp-content/uploads/2021/03/Wahlprotokoll.pdf) [LINK](https://www.asta.uni-siegen.de/wp-content/uploads/2021/01/Wahlzeitung_de_high_quality.pdf) [LINK](https://www.asta.uni-siegen.de/index.php/sitzungen-48-stupa/) 📚👩‍💻👨‍💻",
+                "timestamp": "28/5/2024 @ 13:40:4"
+            },
+            {
+                "user": "Wie viel kostet das Essen in der Mensa?",
+                "bot": "Das tut mir leid, aber ich habe keine spezifischen Informationen über die aktuellen Preise für das Essen in der Mensa. 🙇‍♂️ Aber du kannst online vorbestellen und so Wartezeiten verkürzen! 🍽️👍 Hier ist der Link zur Vorbestellung: [LINK](https://www.studierendenwerk-siegen.de/gastro/vorbestellung/). Bei Fragen kannst du das Studierendenwerk unter +49 (0) 271 740-0 anrufen oder eine E-Mail an info@studierendenwerk.uni-siegen.de schreiben. 📞📧",
+                "timestamp": "28/5/2024 @ 13:42:28"
+            },
+            {
+                "user": "An welchen Campi gibt es eine Mensa?",
+                "bot": "Es gibt Mensen an verschiedenen Standorten: Mensa AR, Mensa US, Mensa ENC, und mehrere Leo-Standorte. Du kannst die genauen Standorte und ihre Speisepläne auf der Website des Studierendenwerks Siegen überprüfen. Denk daran, dass du dein Essen bis 08:30 Uhr am gleichen Tag online vorbestellen musst. Hier sind die Links: \nMensa AR: [LINK] https://www.studierendenwerk-siegen.de/gastro/mensa-ar/ \nMensa US: [LINK] https://www.studierendenwerk-siegen.de/gastro/mensa-us/ \nMensa ENC: [LINK] https://www.studierendenwerk-siegen.de/gastro/mensa-enc/ \nLeo-Standorte: [LINK] https://www.studierendenwerk-siegen.de/gastro/leo-pb/, [LINK] https://www.studierendenwerk-siegen.de/gastro/leo-ar/, [LINK] https://www.studierendenwerk-siegen.de/gastro/leo-h/ \nVorbestellung: [LINK] https://www.studierendenwerk-siegen.de/gastro/vorbestellung/ \nGuten Appetit! 🍽️😊",
+                "timestamp": "28/5/2024 @ 13:43:45"
+            },
+            {
+                "user": "Was gibt es an der Uni für Freizeitangebote?",
+                "bot": "An der Uni Siegen gibt es viele Möglichkeiten, deine Freizeit zu gestalten. Du kannst dich beispielsweise beim studentischen Fernsehen \"Campus TV\" engagieren und Erfahrungen in verschiedenen Bereichen wie Redaktion, Kamera oder Moderation sammeln. Keine Sorge, du brauchst keine Vorkenntnisse, du kannst einfach ausprobieren und lernen. Die nächste Redaktionssitzung ist montags um 18 Uhr im ZIMT-Studio (AR-Campus). Hier ist der Link zu ihrer Homepage: [Campus TV](URL)\n\nAußerdem gibt es den \"Glückspils\" (GP), ein Ort, wo du gleichaltrige Leute treffen, Spaß haben und selbst Initiative ergreifen kannst. Du kannst hier deinen eigenen Ausschank machen, Räume für Partys mieten oder Spieleabende und Videoabende gestalten. Auch wenn du nicht im Wohnheim wohnst, sind engagierte Helfer*innen immer willkommen. Hier ist ihre E-Mail-Adresse: [Glückspils](E-Mail)\n\nDer \"Goldene Monaco\" ist ein studentischer Filmpreis, der jedes Jahr von Studierenden für Studierende organisiert wird. Du kannst deine Filme einreichen und an einem Wettbewerb teilnehmen. Die Preisverleihung ist eine große Gala-Veranstaltung. Hier ist der Link zur Homepage: [Der Goldene Monaco](URL)\n\nDas \"eLab\" bietet ein Elektroniklabor für Studierende, in dem du technische Basteleien ausprobieren kannst. Die Räume in H-H 02 sind nur zu den Öffnungszeiten geöffnet, die du auf der Homepage finden kannst: [eLab](URL)\n\nZuletzt gibt es noch die \"Filmwerkstatt\", wo du deine filmischen Fähigkeiten ausprobieren und erweitern kannst. Hier ist der Link zur Homepage: [Filmwerkstatt](URL)\n\nViel Spaß beim Ausprobieren! 🎉",
+                "timestamp": "28/5/2024 @ 13:50:21"
+            },
+            {
+                "user": "Welche Listen gibt es in der Hochschulpolitik?",
+                "bot": "In der Hochschulpolitik an der Universität Siegen gibt es eine Reihe von Listen, die bei den StuPa-Wahlen antreten. Hier sind einige davon:\n\n1. Campus Grün\n2. Die LISTE\n3. Fak4StuPa\n4. JU & RCDS\n5. Juso HSG\n6. LHG\n7. Listenlos\n8. SDS.Die LINKE.Siegen\n\nJede Liste repräsentiert unterschiedliche politische Positionen und Interessen. Es ist wichtig, sich über die verschiedenen Listen und ihre Ziele zu informieren, um eine informierte Wahlentscheidung zu treffen. Mehr Informationen zu den Listen und ihren Zielen findest du in der Wahlzeitung oder auf der Website des AStA. \n\n[LINK] https://www.asta.uni-siegen.de/wp-content/uploads/2019/11/Wahlzeitung2019.pdf\n[LINK] https://www.asta.uni-siegen.de/index.php/sitzungen-47-stupa/",
+                "timestamp": "28/5/2024 @ 13:52:6"
+            },
+            {
+                "user": "Was sind die Positionen der Hochschulliste ZAK?",
+                "bot": "Ich habe diese Information nicht in meinem Wissen, bitte kontaktieren Sie den Studierendenberatungsdienst.",
+                "timestamp": "28/5/2024 @ 13:53:16"
+            },
+            {
+                "user": "Ich studiere Medienwissenschaft in Kombination mit Medienmanagement. Wie viele Leistungspunkte brauche ich, bis ich meine Bachelorarbeit schreiben kann?",
+                "bot": "Für die Anmeldung Ihrer Bachelorarbeit benötigen Sie in der Regel 120 Leistungspunkte. Bitte prüfen Sie die spezifischen Anforderungen Ihres Studiengangs in der Prüfungsordnung oder wenden Sie sich an das Prüfungsamt.",
+                "timestamp": "28/5/2024 @ 13:59:59"
+            },
+            {
+                "user": "Kann ich nach meinem Pflichtpraktikum im Bachelor noch ein zweites Praktikum für mein Studium Generale absolvieren?",
+                "bot": "\n\nIch habe es nicht in meinem Wissen, bitte kontaktieren Sie die Studienberatung.",
+                "timestamp": "28/5/2024 @ 14:1:24"
+            },
+            {
+                "user": "",
+                "bot": "Gemäß dem Kontext müssen Sie 120 Leistungspunkte erwerben, bevor Sie Ihre Bachelorarbeit anmelden können. Bitte wenden Sie sich an das Prüfungsamt, um den Antrag zur Zulassung zu erhalten und die prüfungsrechtlichen Voraussetzungen zu prüfen. Der Antrag muss vor Beginn der Arbeit eingereicht und genehmigt sein.",
+                "timestamp": "28/5/2024 @ 14:1:48"
+            },
+            {
+                "user": "",
+                "bot": "Ich habe diese Information nicht in meinem Wissen, bitte kontaktieren Sie die Studienberatung.",
+                "timestamp": "28/5/2024 @ 14:1:56"
+            },
+            {
+                "user": "Hast du eigentlich Gefühle?",
+                "bot": "Als KI-Assistent habe ich keine Gefühle. Ich bin hier, um Ihnen bei Ihren Fragen zu helfen.",
+                "timestamp": "28/5/2024 @ 14:2:36"
+            },
+            {
+                "user": "Welche Kurse kann ich diese Woche am Campus des Unteren Schlosses besuchen?",
+                "bot": "Ich habe diese Information nicht in meinem Wissen, bitte kontaktieren Sie den Studienberatungsdienst.",
+                "timestamp": "28/5/2024 @ 14:4:14"
+            },
+            {
+                "user": "Was studiere ich?",
+                "bot": "\n\nIch habe es nicht in meinem Wissen, bitte kontaktieren Sie die Studienberatung.",
+                "timestamp": "28/5/2024 @ 14:4:38"
+            },
+            {
+                "user": "Aber ich habe dir gesagt, was ich studiere",
+                "bot": "Entschuldigung, ich habe die Information über Ihr Studienfach nicht gefunden. Könnten Sie bitte wiederholen, was Sie studieren? Das würde mir helfen, Ihnen spezifischere Informationen zu geben.",
+                "timestamp": "28/5/2024 @ 14:4:56"
+            },
+            {
+                "user": "Ich studiere Medienwissenschaft in Kombination mit Medienmanagement",
+                "bot": "Das ist eine gute Kombination. Im Masterstudiengang Medien und Gesellschaft studieren Sie in den gewählten Fächern jeweils drei Module plus zwei Module im interdisziplinären Studienbereich. Hinzu kommt ein Wahlbereich, in dem Sie ein weiteres Modul aus dem Angebot der beteiligten Fächer sowie ein frei wählbares Modul belegen. Im vierten Semester schreiben Sie Ihre Masterarbeit. Der Studiengang bereitet Sie auf Planungs-, Beratungs- und Managementaufgaben in Medienunternehmen bzw. in Unternehmen mit einer Media-Abteilung vor. Ein Praktikum während des Masterstudiums wird empfohlen.",
+                "timestamp": "28/5/2024 @ 14:5:28"
+            },
+            {
+                "user": "Ich studiere aber im Bachelor Medienwissenschaft mit Medienmanagement",
+                "bot": "Für den Masterstudiengang Medien und Gesellschaft benötigen Sie einen Bachelorabschluss in mindestens einem der gewählten Fächer mit der Note 2,5 oder besser. In dem anderen Fach müssen Sie Kenntnisse im Umfang von 18 LP nachweisen. Da Sie Medienwissenschaft mit Medienmanagement studieren, erfüllen Sie die Zulassungsvoraussetzungen für diese Fächer. Sie können also den Masterstudiengang Medien und Gesellschaft wählen, wenn Sie dies wünschen.",
+                "timestamp": "28/5/2024 @ 14:6:47"
+            },
+            {
+                "user": "Ich studiere Medienwissenschaft in Kombination mit Medienmanagement. Wie viele Leistungspunkte brauche ich, bis ich meine Bachelorarbeit schreiben kann?",
+                "bot": "Entschuldigung, aber die Information, die Sie suchen, ist nicht in meinem Wissenskontext enthalten. Bitte wenden Sie sich an die Studienberatung Ihres Fachbereichs. 🎓📚",
+                "timestamp": "28/5/2024 @ 14:13:50"
+            },
+            {
+                "user": "Hä? Was geht mit dir, alter!",
+                "bot": "Entschuldigung, aber deine Frage scheint nicht mit dem gegebenen Kontext zusammenzuhängen. Bitte wende dich an die Studienberatung für weitere Unterstützung. 🎓📚",
+                "timestamp": "28/5/2024 @ 14:14:32"
+            },
+            {
+                "user": "Digga, ich fühl mich von dir verarscht",
+                "bot": "Es tut mir leid, wenn du dich so fühlst 😔. Ich bin hier, um dir zu helfen. Wenn du Fragen oder Bedenken hast, lass es mich bitte wissen.",
+                "timestamp": "28/5/2024 @ 14:15:8"
+            },
+            {
+                "user": "Sorry, wollte nicht deine Gefühle verletzen",
+                "bot": "Keine Sorge, als AI habe ich keine Gefühle, die verletzt werden könnten. Ich bin hier, um Ihnen bei Ihren Fragen zu helfen. 😊👍",
+                "timestamp": "28/5/2024 @ 14:15:38"
+            },
+            {
+                "user": "Ich studiere Medienwissenschaft. Welche Kurse muss ich dafür machen?",
+                "bot": "Im Studiengang Medienwissenschaft müssen Sie verschiedene Kurse belegen. Diese können sich je nach Universität und Studienplan unterscheiden. Normalerweise umfassen sie Themen wie Medientheorie, Mediengeschichte, Medienästhetik und -analyse. Darüber hinaus können Sie in einigen Studiengängen aus einer Reihe von Wahlmodulen wählen, um sich auf bestimmte Bereiche zu spezialisieren. Es ist empfehlenswert, sich auf der Webseite Ihrer Universität oder in der Prüfungsordnung Ihres Studiengangs über die genauen Anforderungen zu informieren. 🎓📚",
+                "timestamp": "28/5/2024 @ 14:16:19"
+            },
+            {
+                "user": "Wo finde ich meine Studienordnung",
+                "bot": "Hallo! 👋 Du kannst deine Studienordnung auf den Seiten der Fakultät finden. Dort findest du Prüfungsordnungen, Modulhandbücher und Studiengangübersichten für die Versionen 2012 und 2019. 📚🎓\n\nFalls du von der Version 2012 auf die Version 2019 wechseln möchtest, gibt es auch Informationen zu den Wechselregularien und ein Wechselformular. 🔄\n\nIch hoffe, das hilft dir weiter! Bei weiteren Fragen stehe ich dir gerne zur Verfügung. 😊",
+                "timestamp": "28/5/2024 @ 14:27:30"
+            },
+            {
+                "user": "Wer bist du?",
+                "bot": "Hallo! 🖐️ Ich bin ein hilfreicher AI-Assistent und hier, um dich bei Fragen rund um dein Studium zu unterstützen. 😊 Egal ob du Fragen zu Studiengängen, Prüfungen oder Studienleben hast, ich bin für dich da! 🎓📚",
+                "timestamp": "28/5/2024 @ 14:28:37"
+            },
+            {
+                "user": "Was kannst du mir zum Studienleben an der Uni Siegen erzählen?",
+                "bot": "Hallo! 😊 Das Studienleben an der Uni Siegen ist vielfältig und aufregend. Neben dem Studium gibt es viele Möglichkeiten, sich zu engagieren und neue Leute kennenzulernen. Es gibt zahlreiche Veranstaltungen, Clubs und Aktivitäten, an denen du teilnehmen kannst. Die Stadt Siegen bietet auch viele Freizeitaktivitäten. 🏞️🎭🍻\n\nWenn du Fragen hast, wie du deinen Veranstaltungsplan erstellen kannst, wie du dich finanzieren kannst oder wie das Campusleben aussieht, die Zentrale Studienberatung der Universität Siegen steht dir zur Verfügung. 🎓📚👩‍💻\n\nViel Erfolg und eine erfüllte Studienzeit wünsche ich dir! 🎉💪\n\nFür weitere Informationen, schau mal hier vorbei: https://www.uni-siegen.de/zsb/studienangebot/?lang=de",
+                "timestamp": "28/5/2024 @ 14:30:11"
+            },
+            {
+                "user": "Welche studentische Organisationen gibt es an der uni siegen?",
+                "bot": "Es gibt verschiedene studentische Organisationen an der Universität Siegen! Da ist zum Beispiel das Familienservicebüro, das bei Fragen zur Vereinbarkeit von Beruf, Studium und Familie hilft 👪🎓. Dann gibt's den Career Service, der dir bei der Karriereplanung hilft 🎓💼. \n\nDer Alumniverbund ist ein Netzwerk für alle Ehemaligen der Uni Siegen 🎓👥. Sie bieten auch ein Mentoring-Programm namens \"Siegen im Tandem\" an. \n\nDas ZIMT (Zentrum für Informations- und Medientechnologie) kümmert sich um den WLAN-Zugang und den Login zur Lernplattform Moodle 💻🌐. \n\nAußerdem gibt es die studentische Selbstverwaltung, die sämtliche studentischen Strukturen innerhalb der Universität umfasst und die kulturelle, politische und soziale Beteiligung der Studierenden fördert 🎓🗳️. \n\nFür weitere Infos, schau mal auf den jeweiligen Webseiten vorbei:\n- Familienservicebüro: www.uni-siegen.de/familiengerechte_hochschule/familienservicebuero\n- Career Service: www.uni-siegen.de/cs/\n- Alumniverbund: www.uni-siegen.de/alumni\n- ZIMT: www.zimt.uni-siegen.de/zielgruppen/studienanfaenger/\n\nHoffentlich hilft das weiter! 🌟",
+                "timestamp": "28/5/2024 @ 14:34:12"
+            },
+            {
+                "user": "Wer bist du?",
+                "bot": "Hallo! 🖐️ Ich bin ein hilfreicher KI-Assistent und stehe hier, um dir bei Fragen zu deinem Studium zu helfen. Von Studienprogrammen bis hin zu universitären Initiativen - ich bin hier, um dir zu helfen! 😊📚🎓",
+                "timestamp": "28/5/2024 @ 14:43:23"
+            },
+            {
+                "user": "Was für Initiativen gibt es?",
+                "bot": "Es gibt zwei Initiativen im Kontext: eine für Geflüchtetenhilfe und eine Spieleinitiative namens USK57. Die Geflüchtetenhilfe-Initiative bietet Unterstützung und Austausch für Geflüchtete, organisiert Veranstaltungen und setzt sich für die Integration ein. Die USK57 ist eine studentische Initiative, die Spieleabende organisiert und die Spielekultur fördert. Sie treffen sich alle zwei Wochen, momentan online wegen Corona. 🎮🌍💬🤗 Hier sind die Links: [USK57 Homepage](#), [Facebook](#), [E-Mail](#).",
+                "timestamp": "28/5/2024 @ 14:44:15"
+            },
+            {
+                "user": "Wie weit im Vorraus sollte ich mich um ein Praktikum im Ausland kümmern?",
+                "bot": "Ich habe keine spezifischen Informationen dazu in meinem Wissensbestand. Es ist jedoch allgemein empfehlenswert, sich mindestens 6 bis 12 Monate im Voraus um ein Praktikum im Ausland zu kümmern, um genügend Zeit für die Planung und Vorbereitung zu haben. Bitte kontaktieren Sie den Studienberatungsdienst für genauere Informationen.",
+                "timestamp": "28/5/2024 @ 14:53:24"
+            },
+            {
+                "user": "Kann ich meinen Studiengang in der Mitte des Semesters wechseln?",
+                "bot": "Ein Studiengangswechsel ist in der Regel zum Beginn eines neuen Semesters möglich. Ein Wechsel während des laufenden Semesters ist oft nicht vorgesehen. Dies kann jedoch von Universität zu Universität variieren. Daher empfehle ich Ihnen, sich an den Studierendenservice oder die Studienberatung Ihrer Universität zu wenden, um spezifische Informationen zu erhalten.",
+                "timestamp": "28/5/2024 @ 14:55:35"
+            },
+            {
+                "user": "was gibt es heute in der Mensa?",
+                "bot": "Ich habe keine aktuellen Informationen über das heutige Menü in der Mensa. Bitte kontaktieren Sie den Studierendenservice oder besuchen Sie die Website des Studierendenwerks für aktuelle Informationen.",
+                "timestamp": "28/5/2024 @ 14:57:17"
+            },
+            {
+                "user": "Wo finde ich die Website des Studierendenwerks",
+                "bot": "Die Website des Studierendenwerks finden Sie unter folgendem Link: [LINK] http://www.studentenwerk.uni-siegen.de/index.php?katid=2&uname=70445-STW-85F6",
+                "timestamp": "28/5/2024 @ 14:59:18"
+            },
+            {
+                "user": "Welche Fachkombinationen sind in der Uni Siegen für das Lehramtstudium HRSGe möglich?",
+                "bot": "An der Uni Siegen gibt es für das Lehramtstudium HRSGe eine Vielzahl an möglichen Fachkombinationen. Du kannst aus einer breiten Palette von Fächern wählen, wie z.B. Biologie, Chemie, Deutsch, Englisch, Französisch, Geschichte, Informatik, Kunst, Mathematik, Musik, Philosophie, Physik, Sozialwissenschaften, Spanisch und viele mehr. 🎓📚\n\nAußerdem bietet die Uni Siegen auch die Möglichkeit, das Lehramtstudium mit integrierter Förderpädagogik zu studieren. 🎉\n\nFür detaillierte Informationen und um die für dich beste Wahl zu treffen, empfehle ich dir, die offizielle Webseite der Uni Siegen zu besuchen: [LINK](http://www.uni-siegen.de/zsb/studienangebot/lehramt/hrsge_ma.html) \n\nViel Erfolg bei deiner Studienwahl! 🍀😊",
+                "timestamp": "28/5/2024 @ 15:24:52"
+            },
+            {
+                "user": "Ich möchte mathematik und Musik studieren. Ist das möglich?",
+                "bot": "Hallo! 🎵🔢 Ja, an der Universität Siegen ist es möglich, Mathematik und Musik in Kombination zu studieren. Hier sind die Links zu den Modulen für Mathematik und Musik:\n1. Mathematik: [LINK](http://www.uni-siegen.demodules.xsp?typ=gs&fach1=sprachlich&fach2=mathematisch&lang=de)\n2. Musik: [LINK](http://www.uni-siegen.demodules.xsp?typ=gs&fach1=sprachlich&fach2=mathematisch&fach3=musik&lang=de)\n\nViel Spaß beim Studieren! 🎉📚",
+                "timestamp": "28/5/2024 @ 15:27:5"
+            },
+            {
+                "user": "Okay vielen Dank! Wie kann ich das Studium sturukturieren?",
+                "bot": "Um dein Studium zu strukturieren, kannst du deinen Stundenplan mithilfe der Studien- und Prüfungsordnungen zusammenstellen. Diese enthalten einen Studienverlaufsplan, der dir zeigt, welche Module du in welchem Semester belegen solltest 📚✅. \n\nDie Modulhandbücher, Prüfungsordnungen und Studienverlaufspläne für deine Fächer sind verlinkt und auch im Campusmanagement-System unisono hinterlegt. In unisono kannst du dir den Modulplan und die Studienverlaufsstruktur für deinen Studiengang anzeigen lassen. Wenn du auf Grundlage dieser Recherche die Veranstaltungen gefunden hast, die du belegen willst oder sollst, vergiss bitte nicht, diese vor Vorlesungsbeginn in unisono zu belegen 📝👍.\n\nViel Erfolg bei der Planung deines Studiums! 🎓🌟",
+                "timestamp": "28/5/2024 @ 15:29:11"
+            },
+            {
+                "user": "Wie viel zählt der master und wie viel der bachelor in der Endnote?",
+                "bot": "Ich habe diese Information nicht in meinem Wissen, bitte kontaktieren Sie den Studienberatungsdienst. 🙏📚",
+                "timestamp": "28/5/2024 @ 15:30:33"
+            },
+            {
+                "user": "Elche Fachkombinationen kann ich in der uni Siegen im Lehramt für HRSGe studieren?",
+                "bot": "An der Universität Siegen haben Sie die Möglichkeit, Lehramt an Haupt-, Real-, Sekundar- und Gesamtschulen (HRSGe) zu studieren. Das Studium besteht aus einem 6-semestrigen Bachelor- und einem 4-semestrigen Masterstudium. Die genauen Fachkombinationen können variieren, daher empfehle ich Ihnen, die Website der Universität Siegen für aktuelle Informationen zu besuchen. 🎓📚 [LINK](http://www.uni-siegen.de/zsb/studienangebot/lehramt/hrsge_ma.html)",
+                "timestamp": "28/5/2024 @ 15:40:57"
+            },
+            {
+                "user": "Wie kann ich mein Studium Strukturieren?",
+                "bot": "Um dein Studium zu strukturieren, kannst du deinen Studienverlaufsplan in den Studien- oder Prüfungsordnungen finden. Daran oder an den Angaben im Modulhandbuch erkennst du, welche Modulelemente du in welchem Semester belegen solltest. 📚🗓️\n\nAlle Modulhandbücher, Prüfungsordnungen und Studienverlaufspläne für die jeweiligen Fächer sind verlinkt. Du kannst dir deinen Modulplan und die Studienverlaufsstruktur auch im Campusmanagement-System unisono unter „Studienangebot“ anzeigen lassen. \n\nVergiss bitte nicht, die Veranstaltungen, die du belegen möchtest, vor Vorlesungsbeginn in unisono zu belegen. Viel Erfolg! 🎓👍",
+                "timestamp": "28/5/2024 @ 15:42:34"
+            },
+            {
+                "user": "wie kann ein student leichter ,ein  Praktikum bekomen ?",
+                "bot": "Ein Praktikum kann leichter erlangt werden, wenn Studierende ihre betriebswirtschaftlichen Kenntnisse und Fähigkeiten hervorheben, besonders wenn sie in höheren Semestern sind. Unternehmen bevorzugen oft Studierende aus höheren Semestern. Zudem ist es wichtig, dass das Praktikum zum Arbeitsgebiet des betreuenden Professors passt, da dieser die Betreuung ablehnen kann, wenn dies nicht der Fall ist. Es ist empfehlenswert, die Betreuung mit dem Professor abzusprechen, auch wenn kein formeller Antrag erforderlich ist.",
+                "timestamp": "28/5/2024 @ 16:9:16"
+            },
+            {
+                "user": "WIE kann man in  einem dritte versuch besser kommen",
+                "bot": "Um sich auf einen dritten Prüfungsversuch vorzubereiten, könnte es hilfreich sein, die Fehler der vorherigen Versuche zu analysieren und daran zu arbeiten. Nutzen Sie die zur Verfügung stehenden Ressourcen, wie z.B. Übungsblätter, Musterlösungen und Tutorien. Es könnte auch hilfreich sein, sich mit Kommiliton*innen auszutauschen oder eine*n Dozent*in um Rat zu fragen. Es ist wichtig, dass Sie den Stoff gründlich verstehen und nicht nur auswendig lernen. Planen Sie genügend Zeit für die Vorbereitung ein und versuchen Sie, den Stoff regelmäßig zu wiederholen, um ihn zu festigen.",
+                "timestamp": "28/5/2024 @ 16:11:53"
+            },
+            {
+                "user": "wie kann man gut für die Klasuren ,sich vorbereiten?",
+                "bot": "Eine gute Vorbereitung auf Klausuren umfasst verschiedene Aspekte. Hier einige Tipps:\n\n1. Zeitplanung: Planen Sie genügend Zeit für Ihre Vorbereitung ein. Eine Regel ist, dass Sie mindestens so viele Tage zur Vorbereitung einplanen sollten, wie die Klausur Stunden hat.\n\n2. Wiederholung: Wiederholen Sie den Stoff regelmäßig. Das hilft, ihn im Langzeitgedächtnis zu verankern.\n\n3. Lerngruppen: In Lerngruppen können Sie den Stoff gemeinsam durchgehen und sich gegenseitig erklären. Das kann besonders hilfreich sein, wenn Sie Schwierigkeiten mit bestimmten Themen haben.\n\n4. Alte Klausuren: Wenn möglich, schauen Sie sich alte Klausuren an. So bekommen Sie ein Gefühl dafür, was Sie erwartet.\n\n5. Gesunde Lebensweise: Achten Sie auf genügend Schlaf, gesunde Ernährung und regelmäßige Pausen. Das hilft Ihnen, konzentriert zu bleiben.\n\n6. Entspannung: Versuchen Sie, vor der Klausur entspannt zu bleiben. Angst und Stress können die Leistung beeinträchtigen.\n\nFür weitere Informationen und Tipps zum Lernen und zur Prüfungsvorbereitung können Sie die folgenden Links verwenden:\n[LINK] http://www.uni-siegen.de/zsb/psychologische/lernen1.html\n[LINK] http://www.uni-siegen.de/zsb/psychologische/lernen2.html",
+                "timestamp": "28/5/2024 @ 16:20:4"
+            },
+            {
+                "user": "kannst du französisch ?",
+                "bot": "Als KI-Assistent habe ich die Fähigkeit, Text in verschiedenen Sprachen zu verarbeiten und zu generieren, einschließlich Französisch.",
+                "timestamp": "28/5/2024 @ 16:30:19"
+            },
+            {
+                "user": "que peut-on étudier ?",
+                "bot": "Je n'ai pas cette information dans mes connaissances, veuillez contacter le service de conseil aux étudiant*innen.",
+                "timestamp": "28/5/2024 @ 16:31:7"
+            },
+            {
+                "user": "was kann ich studieren?",
+                "bot": "Ich habe diese Information nicht in meinem Wissen. Bitte kontaktieren Sie den Studienberatungsdienst.",
+                "timestamp": "28/5/2024 @ 16:31:47"
+            }
+        ]
+    },
+
+
+[
+    {
+        "sessionID": "5f20ea95-b707-4c58-ab38-63a8167f085a",
+        "chatbotID": "oRZNknK1mC",
+        "user": "testing@teams.de",
+        "messages": [
+            {
+                "user": "Was geht in Siegen? Antworte im Beavis und Buttheadstyle",
+                "bot": "Entschuldigung, aber ich kann Ihre Anfrage nicht im Beavis und Butthead-Stil beantworten, da ich aufgefordert wurde, eine formelle und professionelle Kommunikation zu halten. In Siegen gibt es viele Aktivitäten, die derzeit online stattfinden, wie Spieleabende, und es werden auch verschiedene Events und Festivals organisiert. Für weitere Informationen folgen Sie bitte @usk57siegen auf sozialen Medien oder treten Sie ihren Infokanälen auf Telegram oder WhatsApp bei: https://linktr.ee/usk57siegen.",
+                "timestamp": "29/5/2024 @ 13:34:21"
+            }
+        ]
+    },
+    {
+        "sessionID": "2369e692-7dd3-49a1-ac47-aa7595b92c64",
+        "chatbotID": "GHfSIYFuIr",
+        "user": "testing@teams.de",
+        "messages": [
+            {
+                "user": "Wo finde ich die Mensa an meiner Uni?",
+                "bot": "Hallo! 👋 Die Mensen an der Uni Siegen befinden sich an verschiedenen Standorten. Hier sind einige davon: Mensa AR, Mensa US, Mensa ENC, Leo PB, Leo AR und Leo H. Du kannst mehr Informationen auf der Webseite des Studierendenwerks Siegen finden. Hier ist der Link: [Studierendenwerk Siegen Gastro](https://www.studierendenwerk-siegen.de/gastro/). Vergiss nicht, dass du dein Essen vor 08:30 Uhr am gleichen Tag online vorbestellen musst! 🍽️😊",
+                "timestamp": "29/5/2024 @ 13:46:6"
+            },
+            {
+                "user": "Wo finde ich die Mensa am US",
+                "bot": "Die Mensa am Unteren Schloss (US) befindet sich in Siegen, Nordrhein-Westfalen. Für genaue Anfahrtsinformationen empfehle ich dir, den Namen in Google Maps einzugeben oder auf der Website der Universität Siegen nachzuschauen. 📍🗺️ Hier ist der Link zur Uni Siegen Webseite: [LINK] https://www.asta.uni-siegen.de. Viel Spaß beim Flohmarkt! 🛍️😊",
+                "timestamp": "29/5/2024 @ 13:47:34"
+            },
+            {
+                "user": "Wo finde ich meinen  Bescheinigungen in Unisono?",
+                "bot": "Leider habe ich keine Informationen über das Finden von Bescheinigungen in Unisono in diesem Kontext. Bitte kontaktieren Sie den Studierendenservice für weitere Hilfe. 😊",
+                "timestamp": "29/5/2024 @ 13:49:4"
+            },
+            {
+                "user": "Wo finde ich die Mensa und was gibts es heute zu essen?",
+                "bot": "Leider habe ich keine aktuellen Informationen über den Standort der Mensa oder das heutige Menü. Bitte kontaktiere das Studierendenwerk oder besuche ihre Website für aktuelle Informationen. Guten Appetit! 🍽️😊 Für weitere Fragen stehe ich zur Verfügung! [LINK] mailto:asta@uni-siegen.de",
+                "timestamp": "29/5/2024 @ 13:55:41"
+            },
+            {
+                "user": "wo finde ich die mensa?",
+                "bot": "Die Mensa ENC und Leo PB sind an den Standorten des Studierendenwerks Siegen. Sie können sie online vorbestellen. 🍽️😊 Für weitere Fragen, besuchen Sie uns im Hauptgebäude, Hölderlinstraße 3, 57076 Siegen oder kontaktieren Sie uns unter +49 (0) 271 740-0 oder info@studierendenwerk.uni-siegen.de. Wir helfen Ihnen gerne weiter! 👍🏼\n\n[LINK] https://www.studierendenwerk-siegen.de/gastro/vorbestellung/\n[LINK] https://www.studierendenwerk-siegen.de/gastro/mensa-enc/\n[LINK] https://www.studierendenwerk-siegen.de/gastro/leo-pb/",
+                "timestamp": "29/5/2024 @ 13:56:45"
+            },
+            {
+                "user": "wie stell ich meinen stundenplan zusammen",
+                "bot": "Um Ihren Stundenplan zu erstellen, sollten Sie zunächst die Prüfungsordnungen und Studienverlaufspläne Ihres Studiengangs durchsehen. Diese Dokumente enthalten Informationen über die Module, die Sie für den Studienbeginn belegen sollten. Nachdem Sie die relevanten Veranstaltungen gefunden haben, sollten Sie diese vor Vorlesungsbeginn in unisono belegen. In der Erstsemestereinführung erhalten Sie zusätzlich Unterstützung bei der Erstellung Ihres Stundenplans. Dabei gibt es auch Spielraum für Individualisierung durch Wahl- oder Wahlpflichtfächer. Weitere Informationen finden Sie unter folgendem Link: www.uni-siegen.de/start/studium/organisation_finanzierung/pruefungsordnungen.html.",
+                "timestamp": "29/5/2024 @ 14:13:33"
+            },
+            {
+                "user": "wann muss man sich zum EOP im lehramtstudium spätestens bewerben",
+                "bot": "Externe Bewerber*innen müssen sich spätestens bis zum 15.01.2024 über das Unisono-Bewerbungsportal registrieren und bewerben. Interne Bewerber*innen können ab dem 08.01.2024 im Studierendensekretariat den Wechsel beantragen. Bitte beachten Sie, dass die letzte Leistung im Bachelor bis zum 31.03.2023 erbracht werden kann und der Nachweis des Bachelorabschlusses bis spätestens 31.05.2024 vorliegen muss. Weitere Informationen finden Sie auf den folgenden Websites: \n[LINK] https://www.uni-siegen.de/zlb/studieninformationen/lehramtsstudium/?lang=de\n[LINK] https://www.uni-siegen.de/zlb/studieninformationen/undzwar/downloads.html?lang=de\n[LINK] https://www.uni-siegen.de/zlb/start/?lang=de\n[LINK] https://www.uni-siegen.de/zlb/organisationsstruktur/personen/?lang=de\n[LINK] https://www.uni-siegen.de/zlb/",
+                "timestamp": "29/5/2024 @ 14:15:23"
+            },
+            {
+                "user": "wie finde ich am besten literatur für eine hausarbeit",
+                "bot": "Um Literatur für eine Hausarbeit zu finden, empfehle ich die Nutzung von Bibliothekskatalogen und Online-Datenbanken. An der Universität Siegen können Sie die Universitätsbibliothek und ihre Online-Ressourcen nutzen. Zudem können Sie auch Google Scholar oder JSTOR für wissenschaftliche Artikel verwenden. Achten Sie darauf, relevante und aktuelle Quellen zu verwenden. Hier finden Sie weitere Informationen zur Bibliothek der Universität Siegen: [LINK] http://www.uni-siegen.de/ub/index.html?lang=de",
+                "timestamp": "29/5/2024 @ 14:18:48"
+            },
+            {
+                "user": "wie erstelle ich einen stundenplan",
+                "bot": "In der Erstsemestereinführung werden Dir von älteren, erfahreneren Studierenden gezeigt, wie Du Deinen Stundenplan erstellst. Jede*r Studierende gestaltet seinen*ihren Stundenplan ein wenig selbst nach seinen*ihren Wünschen und Vorlieben. Bestimmte Veranstaltungen musst Du besuchen, da hast Du keine Wahl, aber es gibt immer auch Spielraum für Individualisierung, das sind dann die sogenannten Wahl- oder Wahlpflichtfächer. Beispiele, an denen Du Dich orientieren kannst, findest Du hier: [LINK]. Weitere Informationen zu den Studiengängen und den entsprechenden Prüfungsordnungen findest Du auf der Webseite der Universität Siegen: https://www.uni-siegen.de/lwf/departments/digitalegesundheitswissenschaften/studium/pruefungsamt/studiengangsuebersichtrpofpo/?lang=de.",
+                "timestamp": "29/5/2024 @ 14:26:12"
+            },
+            {
+                "user": "wie finde ich literatur für hausarbeiten",
+                "bot": "Ich habe in meinem Wissensbestand keine spezifischen Informationen darüber, wie man Literatur für Hausarbeiten findet. Allerdings kann ich Ihnen allgemeine Tipps geben. Sie können Literatur in der Bibliothek Ihrer Universität oder online über akademische Datenbanken und Suchmaschinen wie JSTOR, Google Scholar oder die Datenbank Ihrer Universität suchen. Oftmals bieten Universitäten auch spezielle Recherche-Workshops an, in denen Sie lernen können, wie Sie effektiv nach wissenschaftlicher Literatur suchen. Wenn Sie spezifische Fragen zur Literaturrecherche für Ihren Studiengang haben, sollten Sie sich an den Studienberatungsdienst wenden.",
+                "timestamp": "29/5/2024 @ 14:28:36"
+            },
+            {
+                "user": "Bis wann sind die Bewerbungsfristen",
+                "bot": "Hallo! Die Bewerbungsfristen für den Master werden im November (für den Studienbeginn im Sommersemester) und im Mai (für den Studienbeginn im Wintersemester) bekannt gegeben. Für das Wintersemester 2024/2025 kannst du dich ab dem 15. Mai 2024 bis zum 15. September 2024 bewerben. Aber denk dran, die Einschreibefrist endet am 20.09.2024, also bewirb dich lieber frühzeitig! 😊\n\nFür mehr Details, schau mal hier: \n[LINK] http://www.uni-siegen.de/zsb/termine.html\n[LINK] https://unisono.uni-siegen.de",
+                "timestamp": "29/5/2024 @ 14:40:9"
+            },
+            {
+                "user": "Welche Studiengänge befinden sich an welchem Campus?",
+                "bot": "Es tut mir leid, aber ich habe keine spezifischen Informationen zu den Standorten der Studiengänge an verschiedenen Campus. Bitte wende dich an die Studienberatung deiner Universität, um diese Information zu erhalten. Sie können dir einen detaillierten Überblick über die Verteilung der Studiengänge auf die verschiedenen Campus geben. 🎓📍🗺️",
+                "timestamp": "29/5/2024 @ 14:41:44"
+            },
+            {
+                "user": "Wo befindet sich denn der Campus für Maschinenbau",
+                "bot": "Der Campus für Maschinenbau befindet sich an der Universität Siegen, genauer an der Paul-Bonatz-Straße 9 - 11, D-57068 Siegen 🏢. Hier findest du auch das Prüfungsamt des Departments Maschinenbau. Aber vergiss nicht, die Öffnungszeiten zu checken, bevor du dort hingehst! 😊\n\nWeitere Infos findest du hier: [Universität Siegen Maschinenbau](https://www.uni-siegen.de/start/index.html)",
+                "timestamp": "29/5/2024 @ 14:42:18"
+            },
+            {
+                "user": "Welche Schritte sind notwendig für eine Anmeldung von Klausuren?",
+                "bot": "Hey! 👋 Die Anmeldung für Klausuren läuft in einigen Schritten ab. 📚\n\n1️⃣ Zuerst musst du dich über das Online-System \"unisono\" für die Prüfungen anmelden. Dies ist ab Semesterbeginn (1. April bzw. 1. Oktober) möglich. \n\n2️⃣ Beachte, dass diese Anmeldung zur Prüfung zusätzlich zu einer eventuellen Belegung der Veranstaltung erforderlich ist.\n\n3️⃣ Die Anmeldung zu den Prüfungen kann bis zu den jeweils genannten Terminen erfolgen.\n\n4️⃣ Falls du dich abmelden möchtest (Rücktritt ohne Angabe von Gründen), kannst du dies bis 1 Woche vor der jeweiligen ersten Klausur online über unisono tun. \n\n5️⃣ Wichtig: Nach der ersten Klausur ist ein Rücktritt nicht mehr möglich, auch nicht im Falle einer Erkrankung o.ä. \n\nIch hoffe, das hilft! Viel Glück mit deinen Klausuren! 🍀",
+                "timestamp": "29/5/2024 @ 14:43:3"
+            },
+            {
+                "user": "Hast du eine Preisliste it em Mensa-Angebot für mich?",
+                "bot": "Leider habe ich keine spezifische Preisliste für das Mensa-Angebot in meinem Wissen. Aber ich empfehle dir, die Website des Studierendenwerks Siegen zu besuchen. Dort findest du möglicherweise weitere Informationen zu den Preisen. Hier ist der Link: [Studierendenwerk Siegen](https://www.studierendenwerk-siegen.de/gastro/). Wenn du spezifische Fragen hast, kannst du auch eine E-Mail an info@studierendenwerk.uni-siegen.de schreiben oder unter +49 (0) 271 740-0 anrufen. 📞💻🍽️",
+                "timestamp": "29/5/2024 @ 14:43:50"
+            },
+            {
+                "user": "Was kostet das Tagesgericht in der Mensa US",
+                "bot": "Entschuldigung, aber die Informationen über die aktuellen Preise für das Tagesgericht in der Mensa US sind im Kontext nicht gegeben. Ich empfehle, die Webseite der Mensa US zu besuchen oder sie direkt zu kontaktieren, um die genauen Preise zu erfahren. 🍽️😊",
+                "timestamp": "29/5/2024 @ 14:44:7"
+            },
+            {
+                "user": "An welchem Campus befindet sich der Studiengang Maschinenbau?",
+                "bot": "Der Studiengang Maschinenbau befindet sich an der Universität Siegen. Leider gibt der bereitgestellte Kontext keine spezifischen Informationen darüber, an welchem Campus der Universität der Studiengang stattfindet. Für genauere Informationen empfehle ich, die Universität direkt zu kontaktieren oder ihre Website zu besuchen. Hier ist der Link zur Hauptseite des Studiengangs: [LINK](https://xims.uni-siegen.de/goxims/content/www3.uni-siegen.de/zsb/studienangebot/master/maschbau.html?edit=1) und hier ist ein Link zur allgemeinen Unterstützungsseite der Universität: [LINK](https://www.uni-siegen.de/support/)",
+                "timestamp": "29/5/2024 @ 14:52:55"
+            },
+            {
+                "user": "Kennst du die Preise für das heutige Mensagericht?",
+                "bot": "Ich habe leider keine Informationen zu den aktuellen Preisen der Mensagerichte. Bitte kontaktiere den Studierendenwerk oder schau auf deren Website nach aktuellen Informationen. 🍽️",
+                "timestamp": "29/5/2024 @ 14:54:1"
+            },
+            {
+                "user": "Wie verläuft der Prozessder Immatrikulation an der Uni Siegen?",
+                "bot": "Um an der Universität Siegen zu studieren, musst du dich zuerst für einen Studiengang bewerben. Für zulassungsbeschränkte Studiengänge ist die Bewerbungsfrist bis zum 15. Juli eines Jahres. Wenn du eine Zulassung für einen Studiengang erhalten hast oder einen zulassungsfreien Studiengang studieren möchtest, musst du dich einschreiben. Dieser Prozess wird auch als Immatrikulation bezeichnet. Nach erfolgreicher Einschreibung erhältst du die USiCard, deinen Studierendenausweis. Zusätzliche Informationen zum Prozess findest du auf der Webseite der Universität Siegen. \n\nBewerbung: www.uni-siegen.de/zsb/bewerbung/index.html\n\nEinschreibung: www.uni-siegen.de/zsb/bewerbung/einschreibung-bewerbung.html\n\nUSiCard: www.uni-siegen.de/usicard\n\nViel Erfolg bei deinem Studienbeginn! 🎓",
+                "timestamp": "29/5/2024 @ 14:54:35"
+            },
+            {
+                "user": "wie bereitet man sich auf die Vorlesungen vor?",
+                "bot": "Eine gute Vorbereitung auf Vorlesungen ist das A und O für ein erfolgreiches Studium! 🎓 Hier sind einige Tipps:\n\n1. Lesen Sie die Modulhandbücher und Studienverlaufspläne, um zu wissen, welche Themen in der Vorlesung behandelt werden. 📚 [LINK](https://www.uni-siegen.de/start/studium/organisation_finanzierung/pruefungsordnungen.html)\n\n2. Nutzen Sie das Online-Portal unisono, um sich für die Vorlesungen anzumelden und sich über den Inhalt zu informieren. 💻\n\n3. Vorkurse können sehr hilfreich sein, um Grundkenntnisse zu erwerben oder aufzufrischen. 📖\n\n4. Nutzen Sie die Erstsemestereinführung, um von erfahrenen Studierenden zu lernen und Ihre Fragen zu stellen. 🙋‍♀️\n\n5. Bereiten Sie sich auf jede Vorlesung vor, indem Sie das Thema recherchieren und sich Notizen machen. 📝 \n\n6. Vergessen Sie nicht, Fragen zu stellen, wenn Sie etwas nicht verstehen. 🤔\n\nViel Erfolg beim Studium! 🍀",
+                "timestamp": "29/5/2024 @ 15:17:53"
+            },
+            {
+                "user": "Wie bereitet man Vorlesungsinhalte nach?",
+                "bot": "Gute Frage! 🙌 Nachbereitung von Vorlesungen ist super wichtig, um das Gelernte zu festigen. 📚 Hier ein paar Tipps:\n\n1. Wiederhole die Inhalte zeitnah zur Vorlesung, um sie besser im Gedächtnis zu behalten. 🧠\n2. Mache dir Notizen während der Vorlesung und überarbeite sie danach. 📝 \n3. Diskutiere die Inhalte mit Kommiliton*innen, das hilft oft beim Verstehen. 👥 \n4. Nutze zusätzliche Lernmaterialien wie Bücher oder Online-Ressourcen. 🌐 \n\nViel Erfolg beim Lernen! 🍀👩‍🎓👨‍🎓\n\nLeider habe ich keine spezifischen Links zum Thema Vorlesungsnachbereitung in der gegebenen Kontext. Für mehr Informationen, bitte kontaktiere die Studienberatung.",
+                "timestamp": "29/5/2024 @ 15:20:1"
+            },
+            {
+                "user": "Welche Geräte sind hilfreich für das Studium?",
+                "bot": "Gute Frage! 🧐 Ein Laptop oder PC ist fast unerlässlich für das Studium. Auch ein zuverlässiges Internet ist wichtig. 👩‍💻 Einige Studierende finden auch ein Tablet oder E-Reader hilfreich für das Lesen von E-Books und Artikeln. 📚 Ein guter Taschenrechner kann auch nützlich sein, besonders für Studiengänge mit viel Mathematik. 🧮 Denken Sie daran, immer die spezifischen Anforderungen Ihres Studiengangs zu prüfen! 🎓 Hoffe das hilft! 😊",
+                "timestamp": "29/5/2024 @ 15:22:34"
+            },
+            {
+                "user": "Würdest du eher ein Laptop oder ein Tablet für das Studium empfehlen?",
+                "bot": "Das hängt wirklich von deinen persönlichen Vorlieben und Studienanforderungen ab. 🎓💻 Ein Laptop bietet in der Regel mehr Leistung und ist besser für Aufgaben wie das Schreiben von Essays oder das Durchführen von Forschung geeignet. Ein Tablet ist jedoch leichter und daher einfacher zu transportieren, und kann besser für das Lesen von Texten oder das Ansehen von Vorlesungen sein. 📚🚀 Denk darüber nach, was du am meisten benötigst und was dein Budget zulässt! 💡💰",
+                "timestamp": "29/5/2024 @ 15:24:7"
+            },
+            {
+                "user": "gibt es neue Studiengängen an der uni Siegen ?",
+                "bot": "Ich habe keine Informationen über neue Studiengänge an der Universität Siegen in dem gegebenen Kontext. Bitte kontaktieren Sie den Studienberatungsdienst für weitere Informationen.",
+                "timestamp": "29/5/2024 @ 15:49:54"
+            },
+            {
+                "user": "haben Sie für mich unternehmen datenbank wo ich meine Masterarbeit machen kann  ?",
+                "bot": "Ich habe keine spezifische Unternehmensdatenbank in meinem Wissen. Es wäre ratsam, sich direkt an Ihr Prüfungsamt oder Ihre*n Betreuer*in zu wenden, um Informationen über mögliche Kooperationen mit Unternehmen für Ihre Masterarbeit zu erhalten.",
+                "timestamp": "29/5/2024 @ 15:51:10"
+            },
+            {
+                "user": " gibt es eine Online Plattform wo ich alte KLausuren und Praktikumbericht finden kann ?",
+                "bot": "Ich habe diese Information nicht in meinem Wissen, bitte kontaktieren Sie den Studienberatungsdienst.",
+                "timestamp": "29/5/2024 @ 15:52:49"
+            },
+            {
+                "user": "Ich   Interesse an Mathematik und Physik was kann ich hier in Siegen studieren ?",
+                "bot": "An der Universität Siegen können Sie Mathematik und Physik studieren. Diese Fächer werden am Emmy-Noether-Campus (Walter-Flex-Straße 3) unterrichtet. Für weitere Informationen zur Anfahrt, besuchen Sie bitte diesen Link: [LINK] https://www.uni-siegen.de/start/kontakt/anfahrt_und_lageplaene/emmy.html.",
+                "timestamp": "29/5/2024 @ 15:55:42"
+            },
+            {
+                "user": "Ich habe Interesse an Math nd Physik , was kann ich hier in Siegen studieren ?",
+                "bot": "Hallo! 👋 Super, dass du dich für Mathematik und Physik interessierst. 🤓 An der Universität Siegen gibt es einige Studiengänge, die zu deinen Interessen passen könnten.\n\nFür Physik gibt es das Bachelor- und Masterstudium. Der Masterstudiengang ist forschungsorientiert und ermöglicht Spezialisierungen in den Forschungsaktivitäten des Departments, insbesondere in Experimenteller Festkörperphysik. 🧪🔬 Hier findest du mehr Informationen zum Physik-Studiengang: [LINK](https://www.uni-siegen.de/zsb/studienangebot/master/physik.html?m=e#wichtig)\n\nIn der Mathematik gibt es ebenfalls Bachelor- und Masterstudiengänge. Leider habe ich in den bereitgestellten Links keine spezifischen Informationen dazu, aber du kannst dich sicherlich auf der Webseite der Universität Siegen darüber informieren.\n\nAußerdem gibt es an der Universität Siegen auch interdisziplinäre Studiengänge wie \"Digital Engineering\", die sowohl Elemente der Mathematik als auch der Physik beinhalten könnten.\n\nVergiss nicht, dich über die Zulassungsverfahren und Fristen zu informieren! 📆 Hier sind einige nützliche Links dazu: [LINK](https://www.uni-siegen.de/start/studium/studierendensekretariat/) und [LINK](https://www.uni-siegen.de/incoming/degree/application/study-program/mafristen.html)\n\nIch hoffe, das hilft dir weiter! Wenn du weitere Fragen hast, lass es mich wissen. 😊👍",
+                "timestamp": "29/5/2024 @ 16:3:24"
+            },
+            {
+                "user": "welcher studiengang kann man studieren um am Ende gutes  Gehalt zu bekommen ? ",
+                "bot": "Das ist eine sehr gute Frage! 🤔 Es ist wichtig zu beachten, dass das Gehalt von vielen Faktoren abhängt, einschließlich der Branche, der Region, der Berufserfahrung und der spezifischen Rolle, die du einnimmst. \n\nAllerdings gibt es einige Studiengänge, die oft zu gut bezahlten Jobs führen. Dazu gehören zum Beispiel Medizin, Jura, Ingenieurwissenschaften, Informatik und Wirtschaftswissenschaften. Aber denk daran, dass es auch wichtig ist, etwas zu studieren, das dir wirklich Spaß macht und deine Interessen widerspiegelt. 😊\n\nEs ist auch wichtig, dass du während deines Studiums Praktika machst und dich vernetzt, um die besten Jobmöglichkeiten zu finden. \n\nSchau dir auch die verschiedenen Finanzierungsmöglichkeiten für dein Studium an, wie BAföG, Stipendien und Studienkredite. Hier sind einige Links, die dir dabei helfen könnten:\n\n- [Allgemeine Informationen zu Studienfinanzierung](https://www.uni-siegen.de/start/studium/index.html?lang=de#finanzierung)\n- [Informationen zu BAföG](https://www.studierendenwerk-siegen.de/home/)\n- [Informationen zu Stipendien](https://www.uni-siegen.de/start/studium/information_und_beratung/studienfinanzierung/stipendien_studierende.html)\n- [Jobvermittlung der Universität Siegen](http://www.jobvermittlung.uni-siegen.de/)\n\nViel Glück bei deiner Entscheidung! 🍀",
+                "timestamp": "29/5/2024 @ 16:6:47"
+            }
+        ]
+    }
+]]

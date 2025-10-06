@@ -1,0 +1,17 @@
+[DEFAULT]
+url=https://www.uni-siegen.de/zsb/bewerbung/index.html?lang=de
+
+
+[div0]
+divname = portal content_mitte
+read = yes
+
+
+[div1]
+divname = portal content_mitte
+read = yes
+
+
+[div2]
+divname = portal content_mitte
+read = yes

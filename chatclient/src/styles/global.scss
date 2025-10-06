@@ -1,0 +1,130 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Open+Sans&family=Gideon+Roman&family=Arimo&family=Tinos&family=IBM+Plex+Sans:ital,wght@0,100;0,400;1,1000&family=Poetsen+One&family=Open+Sans:ital,wght@1,600&family=Fira+Sans+Condensed&display=swap");
+
+@import "_chatcontainer.scss";
+@import "_popup.scss";
+
+// SCROLL BAR STYLING
+/* Firefox's default scrollbar is decent. No changes required */
+
+/* For Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+    width: 6px;
+    cursor: default;
+}
+
+*::-webkit-scrollbar-track {
+    background: #eeeeee;
+    cursor: default;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: #aaaaaa;
+    border-radius: 20px;
+    cursor: default;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    cursor: default, auto;
+}
+
+// PROVIDE A FONT SELECTOR FOR THIS SETTING
+// MUST BE SET GLOBALLY IN ```app.tsx```
+* {
+    font-family: "Inter";
+}
+
+.development-div {
+    box-sizing: content-box;
+    overflow: hidden;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+// Global Styles
+.app-icon-button {
+    position: relative;
+    width: 36px;
+    height: 36px;
+    border: none;
+    border-radius: 50%;
+    overflow: hidden;
+    outline: none;
+    display: flex;
+    background-color: transparent;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    .app-icon-button-anim {
+        position: absolute;
+        border-radius: 50%;
+        top: 100%;
+        left: 50%;
+        width: 0;
+        height: 0;
+        transform: translate(-50%, -50%);
+        background-color: transparent;
+        transition: width 200ms ease, height 200ms ease;
+    }
+    .app-icon-button-icon {
+        font-size: 20px;
+    }
+    &:hover {
+        .app-icon-button-anim {
+            background-color: #eaeaea33;
+            width: 100%;
+            height: 100%;
+        }
+    }
+}
+
+.app-chip-button {
+    background-color: #0c8de9;
+    border-radius: 100px;
+    border: none;
+    font-size: 14px;
+    padding: 6px 16px;
+    margin-right: 8px;
+    color: #ffffff;
+    transition: background-color 100ms ease;
+    &:hover {
+        background-color: #057acd;
+    }
+}
+
+.app-chip-with-close-btn {
+    background-color: #0c8de9;
+    border-radius: 100px;
+    border: none;
+    font-size: 14px;
+    padding: 2px 2px 2px 12px;
+    margin-right: 8px;
+    color: #ffffff;
+    transition: background-color 100ms ease;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 500;
+    user-select: none;
+    .close-btn {
+        width: 28px;
+        height: 28px;
+        margin-left: 6px;
+        background-color: transparent;
+        border: none;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+        border-radius: 50%;
+        .close-icon {
+            color: white;
+        }
+        &:hover {
+            background-color: #eaeaea22;
+        }
+    }
+}

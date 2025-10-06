@@ -1,0 +1,69 @@
+{
+    "root": true,
+    "parser": "@typescript-eslint/parser",
+    "plugins": [
+        "@typescript-eslint",
+        "import"
+    ],
+    "extends": [
+        "eslint:recommended",
+        "plugin:@typescript-eslint/eslint-recommended",
+        "plugin:@typescript-eslint/recommended"
+    ],
+    "settings": {
+        "import/resolver": {
+            "node": {
+                "paths": [
+                    "src"
+                ],
+                "extensions": [
+                    ".js",
+                    ".jsx",
+                    ".ts",
+                    ".tsx"
+                ]
+            }
+        }
+    },
+    "rules": {
+        "indent": "off",
+        "quotes": "warn",
+        "import/order": [
+            "error",
+            {
+                "groups": [
+                    "internal",
+                    "builtin",
+                    "external",
+                    "parent",
+                    "sibling",
+                    "index"
+                ],
+                "pathGroups": [
+                    {
+                        "pattern": "^react",
+                        "group": "internal",
+                        "position": "before"
+                    }
+                ],
+                "pathGroupsExcludedImportTypes": [
+                    "react"
+                ],
+                "newlines-between": "always",
+                "alphabetize": {
+                    "order": "asc",
+                    "caseInsensitive": true
+                }
+            }
+        ],
+        "no-duplicate-imports": "warn",
+        "semi": "warn"
+    },
+    "parserOptions": {
+        "sourceType": "module",
+        "ecmaVersion": 2020
+    },
+    "env": {
+        "browser": true
+    }
+}
