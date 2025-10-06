@@ -126,7 +126,8 @@ Handles embeddings, vector store management, and RAG-based Q&A using **OpenAI** 
 * Runs on **port 5009**
 
 **Setup:**
-Firstly actiavte environment llmservice 
+
+Firstly activate environment llmservice 
 
 ```bash
 source llmservice/bin/activate
